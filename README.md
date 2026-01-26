@@ -8,12 +8,13 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-10A37F?style=flat-square&logo=openai&logoColor=white)
-![OpenCode](https://img.shields.io/badge/-OpenCode-FF6B6B?style=flat-square&logo=github&logoColor=white)
-![Amp](https://img.shields.io/badge/-Amp-5C4EE5?style=flat-square&logo=sourcegraph&logoColor=white)
+![OpenCode](https://img.shields.io/badge/-OpenCode-000000?style=flat-square)
+![Amp](https://img.shields.io/badge/-Amp-FF6B6B?style=flat-square&logo=sourcegraph&logoColor=white)
 
 > Reinventing the developer experience by engineering my own evolution first. 15-year Microsoft veteran, now leading my team's AI transformation by writing code, not just memos.
 
