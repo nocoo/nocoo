@@ -39,6 +39,8 @@
 - 📱 **[InfoViz Mobile](https://github.com/nocoo/infoviz-mobile)** - Mobile version of InfoViz
 - ⚡ **[JSInst](https://github.com/nocoo/jsinst)** - JavaScript instrumentation and performance toolkit
 - 🔌 **[NodeHub](https://github.com/nocoo/nodehub)** - A hub for Node.js services
+- 📄 **[Doc-Doctor](https://github.com/nocoo/doc-doctor.com)** - Study abroad document service platform
+- 🎨 **[Huran.cc](https://github.com/nocoo/huran.cc)** - Art e-commerce platform connecting artists with collectors
 
 ## Latest Blog Posts
 
