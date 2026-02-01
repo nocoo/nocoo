@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🚀 **[Echo](https://github.com/nocoo/echo)** - API-only IP lookup service built with Bun and TypeScript
 - 🧭 **[Deca](https://github.com/nocoo/deca)** - Local-first macOS control gateway for AI agents with Elysia API and a debug console
 - ⏰ **[Runner](https://github.com/nocoo/runner)** - Declarative task scheduler for macOS that runs AI jobs via launchd and opencode
 - 🔍 **[X-Ray](https://github.com/nocoo/xray)** - Twitter/X monitoring system that generates AI-written Markdown insight reports
