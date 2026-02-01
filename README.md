@@ -23,14 +23,14 @@
 - **Exploring AI Coding** - Experimenting with agentic engineering and open source tools in my spare time ([My VibeUsage](https://www.vibeusage.cc/share/edf2bea39cfa4f49a97e2a1390a3f8939fd059a336c547a991475a803ee5e232))
 - **Writing on [lizheng.me](https://lizheng.me)** - Sharing thoughts on AI, coding, and the future of software development
 
-## Current Projects
+## Recent Projects
 
-- ⏰ **[Runner](https://github.com/nocoo/runner)** - Declarative task scheduler for macOS, executing AI tasks via opencode
-- 🔍 **[X-Ray](https://github.com/nocoo/xray)** - Twitter tech content monitoring system with AI-powered reports
-- 🔗 **[Zhe](https://github.com/nocoo/zhe)** - Simple URL shortener service
-- 📰 **[GeekHub](https://github.com/nocoo/geekhub)** - Self-hosted RSS reader with AI summary and translation
-- 💰 **[Noheir](https://github.com/nocoo/noheir)** - Personal finance management with spending analysis and asset tracking
-- 🚀 **[Product Hunt Nexus](https://github.com/nocoo/product-hunt-nexus-ui)** - Modern product discovery platform with React and NestJS
+- 🧭 **[Deca](https://github.com/nocoo/deca)** - Local-first macOS control gateway for AI agents with Elysia API and a debug console
+- ⏰ **[Runner](https://github.com/nocoo/runner)** - Declarative task scheduler for macOS that runs AI jobs via launchd and opencode
+- 🔍 **[X-Ray](https://github.com/nocoo/xray)** - Twitter/X monitoring system that generates AI-written Markdown insight reports
+- 🔗 **[Zhe](https://github.com/nocoo/zhe)** - TypeScript URL shortener with clean links and analytics-ready storage
+- 📰 **[GeekHub](https://github.com/nocoo/geekhub)** - Self-hosted RSS reader with AI summarization and translation, built with Next.js
+- 💰 **[Noheir](https://github.com/nocoo/noheir)** - Personal finance tracker for income, expenses, and assets with analytics dashboards
 
 ### Legacy Projects
 
