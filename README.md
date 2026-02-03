@@ -34,25 +34,25 @@
 - 🔗 **[Zhe](https://github.com/nocoo/zhe)** - TypeScript URL shortener with clean links and analytics-ready storage
 - 🎨 **[WP Theme CeleRev](https://github.com/nocoo/wp-theme-cele-rev)** - A customized WordPress theme based on CeleRev for personal blog
 - 📰 **[GeekHub](https://github.com/nocoo/geekhub)** - Self-hosted RSS reader with AI summarization and translation, built with Next.js
+- 💾 **[CCBackup](https://github.com/nocoo/ccbackup)** - A Python utility to backup and restore Claude Code configuration files
 - 🔊 **[MCP Make Sound](https://github.com/nocoo/mcp-make-sound)** - A Model Context Protocol server for system sound playback on macOS
 
 ### Legacy Projects
 
-- 📄 **[Doc-Doctor](https://github.com/nocoo/doc-doctor.com)** - Study abroad document service platform built with Node.js and Express
-- 🎨 **[Huran.cc](https://github.com/nocoo/huran.cc)** - Art e-commerce platform connecting artists with collectors
 - 📊 **[InfoViz](https://github.com/nocoo/infoviz)** - A lightweight JavaScript library for creating beautiful, interactive data visualizations
-- 🛠️ **[InfoViz Builder](https://github.com/nocoo/infoviz-builder)** - Visual creator for InfoViz charts
+- 🏠 **[Huran.cc](https://github.com/nocoo/huran.cc)** - Art e-commerce platform connecting artists with collectors
+- 📄 **[Doc-Doctor](https://github.com/nocoo/doc-doctor.com)** - Study abroad document service platform built with Node.js and Express
 - ⚡ **[JSInst](https://github.com/nocoo/jsinst)** - A JavaScript instrumentation and performance toolkit
+- 🛠️ **[InfoViz Builder](https://github.com/nocoo/infoviz-builder)** - Visual creator for InfoViz charts
 - 🔌 **[NodeHub](https://github.com/nocoo/nodehub)** - A hub for Node.js services
 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Seven Types of Fragmentation in the AI Era](https://lizheng.me/index.php/2026/02/seven-types-of-fragmentation-in-ai-era/)
+- [Return of Apprenticeship in the AI Era](https://lizheng.me/index.php/2026/02/return-of-apprenticeship-in-ai-era/)
 - [Why You Shouldn't PUA AI Models](https://lizheng.me/index.php/2026/01/no-pua-ai/)
-- [Why I Don't Like "Vibe Coding"](https://lizheng.me/index.php/2026/01/alchemy-of-code-from-vibe-to-engineering/)
-- [Why AI's Future Still Depends on Google, Microsoft and Apple](https://lizheng.me/index.php/2026/01/waiting-for-ai-iphone-moment/)
-- [Quality vs Quantity in AI Coding](https://lizheng.me/index.php/2026/01/ai-coding-quality-vs-quantity/)
-- [The Vanishing Stairs: How Juniors Cross the Experience Gap in the AI Era](https://lizheng.me/index.php/2026/01/junior-to-senior-in-ai-era/)
+- [Read more →](https://lizheng.me)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
