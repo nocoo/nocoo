@@ -25,23 +25,25 @@
 
 ## Recent Projects
 
-- 🚀 **[Echo](https://github.com/nocoo/echo)** - API-only IP lookup service built with Bun and TypeScript
-- 🧭 **[Deca](https://github.com/nocoo/deca)** - Local-first macOS control gateway for AI agents with Elysia API and a debug console
+- 🧬 **[Life.ai](https://github.com/nocoo/life.ai)** - A unified personal data hub for health metrics, location footprints, and expense tracking
 - ⏰ **[Runner](https://github.com/nocoo/runner)** - Declarative task scheduler for macOS that runs AI jobs via launchd and opencode
+- 💰 **[Noheir](https://github.com/nocoo/noheir)** - Personal finance tracker for income, expenses, and assets with analytics dashboards
+- 🧭 **[Deca](https://github.com/nocoo/deca)** - Local-first macOS control gateway for AI agents with Elysia API and a debug console
+- 🚀 **[Echo](https://github.com/nocoo/echo)** - API-only IP lookup service built with Bun and TypeScript
 - 🔍 **[X-Ray](https://github.com/nocoo/xray)** - Twitter/X monitoring system that generates AI-written Markdown insight reports
 - 🔗 **[Zhe](https://github.com/nocoo/zhe)** - TypeScript URL shortener with clean links and analytics-ready storage
+- 🎨 **[WP Theme CeleRev](https://github.com/nocoo/wp-theme-cele-rev)** - A customized WordPress theme based on CeleRev for personal blog
 - 📰 **[GeekHub](https://github.com/nocoo/geekhub)** - Self-hosted RSS reader with AI summarization and translation, built with Next.js
-- 💰 **[Noheir](https://github.com/nocoo/noheir)** - Personal finance tracker for income, expenses, and assets with analytics dashboards
+- 🔊 **[MCP Make Sound](https://github.com/nocoo/mcp-make-sound)** - A Model Context Protocol server for system sound playback on macOS
 
 ### Legacy Projects
 
-- 📊 **[InfoViz](https://github.com/nocoo/infoviz)** - Information visualization library
-- 🛠️ **[InfoViz Builder](https://github.com/nocoo/infoviz-builder)** - Visual creator for InfoViz charts
-- 📱 **[InfoViz Mobile](https://github.com/nocoo/infoviz-mobile)** - Mobile version of InfoViz
-- ⚡ **[JSInst](https://github.com/nocoo/jsinst)** - JavaScript instrumentation and performance toolkit
-- 🔌 **[NodeHub](https://github.com/nocoo/nodehub)** - A hub for Node.js services
-- 📄 **[Doc-Doctor](https://github.com/nocoo/doc-doctor.com)** - Study abroad document service platform
+- 📄 **[Doc-Doctor](https://github.com/nocoo/doc-doctor.com)** - Study abroad document service platform built with Node.js and Express
 - 🎨 **[Huran.cc](https://github.com/nocoo/huran.cc)** - Art e-commerce platform connecting artists with collectors
+- 📊 **[InfoViz](https://github.com/nocoo/infoviz)** - A lightweight JavaScript library for creating beautiful, interactive data visualizations
+- 🛠️ **[InfoViz Builder](https://github.com/nocoo/infoviz-builder)** - Visual creator for InfoViz charts
+- ⚡ **[JSInst](https://github.com/nocoo/jsinst)** - A JavaScript instrumentation and performance toolkit
+- 🔌 **[NodeHub](https://github.com/nocoo/nodehub)** - A hub for Node.js services
 
 ## Latest Blog Posts
 
