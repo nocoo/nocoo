@@ -1,4 +1,7 @@
-# Skill: zhengli-update-github-readme
+---
+name: zhengli-update-github-readme
+description: Update personal GitHub profile README information.
+---
 
 ## 概述
 
