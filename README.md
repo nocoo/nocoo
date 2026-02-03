@@ -25,26 +25,26 @@
 
 ## Recent Projects
 
-- 🧬 **[Life.ai](https://github.com/nocoo/life.ai)** - A unified personal data hub for health metrics, location footprints, and expense tracking
-- ⏰ **[Runner](https://github.com/nocoo/runner)** - Declarative task scheduler for macOS that runs AI jobs via launchd and opencode
-- 💰 **[Noheir](https://github.com/nocoo/noheir)** - Personal finance tracker for income, expenses, and assets with analytics dashboards
-- 🧭 **[Deca](https://github.com/nocoo/deca)** - Local-first macOS control gateway for AI agents with Elysia API and a debug console
-- 🚀 **[Echo](https://github.com/nocoo/echo)** - API-only IP lookup service built with Bun and TypeScript
-- 🔍 **[X-Ray](https://github.com/nocoo/xray)** - Twitter/X monitoring system that generates AI-written Markdown insight reports
-- 🔗 **[Zhe](https://github.com/nocoo/zhe)** - TypeScript URL shortener with clean links and analytics-ready storage
-- 🎨 **[WP Theme CeleRev](https://github.com/nocoo/wp-theme-cele-rev)** - A customized WordPress theme based on CeleRev for personal blog
-- 📰 **[GeekHub](https://github.com/nocoo/geekhub)** - Self-hosted RSS reader with AI summarization and translation, built with Next.js
-- 💾 **[CCBackup](https://github.com/nocoo/ccbackup)** - A Python utility to backup and restore Claude Code configuration files
-- 🔊 **[MCP Make Sound](https://github.com/nocoo/mcp-make-sound)** - A Model Context Protocol server for system sound playback on macOS
+- 🧬 **[life.ai](https://github.com/nocoo/life.ai)** - A unified personal data hub for health metrics, location footprints, and expense tracking
+- ⏰ **[runner](https://github.com/nocoo/runner)** - Declarative task scheduler for macOS that runs AI jobs via launchd and opencode
+- 💰 **[noheir](https://github.com/nocoo/noheir)** - Personal finance tracker for income, expenses, and assets with analytics dashboards
+- 🧭 **[deca](https://github.com/nocoo/deca)** - Local-first macOS control gateway for AI agents with Elysia API and a debug console
+- 🚀 **[echo](https://github.com/nocoo/echo)** - API-only IP lookup service built with Bun and TypeScript
+- 🔍 **[xray](https://github.com/nocoo/xray)** - Twitter/X monitoring system that generates AI-written Markdown insight reports
+- 🔗 **[zhe](https://github.com/nocoo/zhe)** - TypeScript URL shortener with clean links and analytics-ready storage
+- 🎨 **[wp-theme-cele-rev](https://github.com/nocoo/wp-theme-cele-rev)** - A customized WordPress theme based on CeleRev for personal blog
+- 📰 **[geekhub](https://github.com/nocoo/geekhub)** - Self-hosted RSS reader with AI summarization and translation, built with Next.js
+- 💾 **[ccbackup](https://github.com/nocoo/ccbackup)** - A Python utility to backup and restore Claude Code configuration files
+- 🔊 **[mcp-make-sound](https://github.com/nocoo/mcp-make-sound)** - A Model Context Protocol server for system sound playback on macOS
 
 ### Legacy Projects
 
-- 📊 **[InfoViz](https://github.com/nocoo/infoviz)** - A lightweight JavaScript library for creating beautiful, interactive data visualizations
-- 🏠 **[Huran.cc](https://github.com/nocoo/huran.cc)** - Art e-commerce platform connecting artists with collectors
-- 📄 **[Doc-Doctor](https://github.com/nocoo/doc-doctor.com)** - Study abroad document service platform built with Node.js and Express
-- ⚡ **[JSInst](https://github.com/nocoo/jsinst)** - A JavaScript instrumentation and performance toolkit
-- 🛠️ **[InfoViz Builder](https://github.com/nocoo/infoviz-builder)** - Visual creator for InfoViz charts
-- 🔌 **[NodeHub](https://github.com/nocoo/nodehub)** - A hub for Node.js services
+- 📊 **[infoviz](https://github.com/nocoo/infoviz)** - A lightweight JavaScript library for creating beautiful, interactive data visualizations
+- 🏠 **[huran.cc](https://github.com/nocoo/huran.cc)** - Art e-commerce platform connecting artists with collectors
+- 📄 **[doc-doctor.com](https://github.com/nocoo/doc-doctor.com)** - Study abroad document service platform built with Node.js and Express
+- ⚡ **[jsinst](https://github.com/nocoo/jsinst)** - A JavaScript instrumentation and performance toolkit
+- 🛠️ **[infoviz-builder](https://github.com/nocoo/infoviz-builder)** - Visual creator for InfoViz charts
+- 🔌 **[nodehub](https://github.com/nocoo/nodehub)** - A hub for Node.js services
 
 ## Latest Blog Posts
 
