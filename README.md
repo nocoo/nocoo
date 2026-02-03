@@ -31,20 +31,26 @@
 - 🧭 **[deca](https://github.com/nocoo/deca)** - Local-first macOS control gateway for AI agents with Elysia API and a debug console
 - 🚀 **[echo](https://github.com/nocoo/echo)** - API-only IP lookup service built with Bun and TypeScript
 - 🔍 **[xray](https://github.com/nocoo/xray)** - Twitter/X monitoring system that generates AI-written Markdown insight reports
+- 📨 **[microsoft-teams-send-as-workflow](https://github.com/nocoo/microsoft-teams-send-as-workflow)** - Send messages and Adaptive Cards to Microsoft Teams channels via Incoming Webhook
+- 🖼️ **[image-stitch](https://github.com/nocoo/image-stitch)** - A Python tool for seamlessly stitching multiple scrolling screenshots into a single image
 - 🔗 **[zhe](https://github.com/nocoo/zhe)** - TypeScript URL shortener with clean links and analytics-ready storage
 - 🎨 **[wp-theme-cele-rev](https://github.com/nocoo/wp-theme-cele-rev)** - A customized WordPress theme based on CeleRev for personal blog
 - 📰 **[geekhub](https://github.com/nocoo/geekhub)** - Self-hosted RSS reader with AI summarization and translation, built with Next.js
+- 📨 **[skill-task-notifier](https://github.com/nocoo/skill-task-notifier)** - A Python notification service that monitors and alerts on task execution status
 - 💾 **[ccbackup](https://github.com/nocoo/ccbackup)** - A Python utility to backup and restore Claude Code configuration files
+- 🎙️ **[skill-faster-whisper](https://github.com/nocoo/skill-faster-whisper)** - A Claude Code skill for fast speech-to-text transcription powered by faster-whisper
 - 🔊 **[mcp-make-sound](https://github.com/nocoo/mcp-make-sound)** - A Model Context Protocol server for system sound playback on macOS
+- 🛠️ **[ipsafe](https://github.com/nocoo/ipsafe)** - A CLI tool that validates network connectivity before executing commands
+- 🤖 **[mcp-work-history](https://github.com/nocoo/mcp-work-history)** - MCP server for logging AI tool activities with comprehensive metrics tracking
 
 ### Legacy Projects
 
 - 📊 **[infoviz](https://github.com/nocoo/infoviz)** - A lightweight JavaScript library for creating beautiful, interactive data visualizations
-- 🏠 **[huran.cc](https://github.com/nocoo/huran.cc)** - Art e-commerce platform connecting artists with collectors
-- 📄 **[doc-doctor.com](https://github.com/nocoo/doc-doctor.com)** - Study abroad document service platform built with Node.js and Express
 - ⚡ **[jsinst](https://github.com/nocoo/jsinst)** - A JavaScript instrumentation and performance toolkit
 - 🛠️ **[infoviz-builder](https://github.com/nocoo/infoviz-builder)** - Visual creator for InfoViz charts
 - 🔌 **[nodehub](https://github.com/nocoo/nodehub)** - A hub for Node.js services
+- 🏠 **[huran.cc](https://github.com/nocoo/huran.cc)** - Art e-commerce platform connecting artists with collectors
+- 📄 **[doc-doctor.com](https://github.com/nocoo/doc-doctor.com)** - Study abroad document service platform built with Node.js and Express
 
 ## Latest Blog Posts
 
