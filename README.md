@@ -25,10 +25,10 @@
 
 ## Recent Projects
 
+- 🧭 **[deca](https://github.com/nocoo/deca)** - Local-first macOS AI agent gateway with multi-channel support (Discord, Terminal, HTTP) and tool orchestration
 - 🧬 **[life.ai](https://github.com/nocoo/life.ai)** - A unified personal data hub for health metrics, location footprints, and expense tracking
 - ⏰ **[runner](https://github.com/nocoo/runner)** - Declarative task scheduler for macOS that runs AI jobs via launchd and opencode
 - 💰 **[noheir](https://github.com/nocoo/noheir)** - Personal finance tracker for income, expenses, and assets with analytics dashboards
-- 🧭 **[deca](https://github.com/nocoo/deca)** - Local-first macOS control gateway for AI agents with Elysia API and a debug console
 - 🚀 **[echo](https://github.com/nocoo/echo)** - API-only IP lookup service built with Bun and TypeScript
 - 🔍 **[xray](https://github.com/nocoo/xray)** - Twitter/X monitoring system that generates AI-written Markdown insight reports
 - 📨 **[microsoft-teams-send-as-workflow](https://github.com/nocoo/microsoft-teams-send-as-workflow)** - Send messages and Adaptive Cards to Microsoft Teams channels via Incoming Webhook
@@ -55,9 +55,9 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Who Are Friends, Who Are Enemies?](https://lizheng.me/index.php/2026/02/digital-yeoman-farmer-and-ai-resistance/)
 - [Seven Types of Fragmentation in the AI Era](https://lizheng.me/index.php/2026/02/seven-types-of-fragmentation-in-ai-era/)
 - [Return of Apprenticeship in the AI Era](https://lizheng.me/index.php/2026/02/return-of-apprenticeship-in-ai-era/)
-- [Why You Shouldn't PUA AI Models](https://lizheng.me/index.php/2026/01/no-pua-ai/)
 - [Read more →](https://lizheng.me)
 <!-- BLOG-POST-LIST:END -->
 
