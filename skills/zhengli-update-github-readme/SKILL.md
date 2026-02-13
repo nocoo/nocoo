@@ -24,17 +24,19 @@ gh api repos/nocoo/{repo_name}/commits --paginate -q 'length' | paste -sd+ - | b
 ```
 
 3. **过滤规则（满足任一条件即排除）：**
-   - (a) commit 次数少于 10 次
-   - (b) 是 fork 的项目（已通过 `--source` 参数过滤）
-   - (c) 是个人简历网站（`lizheng.dev`）
-   - (d) 是 GitHub Profile 本身（`nocoo`）
+   - (a) 是 fork 的项目（已通过 `--source` 参数过滤）
+   - (b) 是个人简历网站（`lizheng.dev`）
+   - (c) 是 GitHub Profile 本身（`nocoo`）
+
+   > **注意：** commit 数量仅供内部参考使用（用于排序），不再作为过滤条件。所有过去一年内有 commit 的项目都应列入 Recent Projects。
 
 4. **输出过滤结果表格：**
 
-| Repo 名称 | Commits | 过滤结果 | 排除原因 |
-|----------|---------|---------|---------|
-| xxx | 25 | ✅ 保留 | - |
-| yyy | 5 | ❌ 排除 | commits < 10 |
+| Repo 名称 | 创建时间 | Commits | 过滤结果 | 排除原因 |
+|----------|---------|---------|---------|---------|
+| xxx | 2026-01-01 | 25 | ✅ 保留 | - |
+| yyy | 2025-06-01 | 8 | ✅ 保留 | 过去一年有 commit |
+| zzz | 2023-01-01 | 5 | ❌ 排除 | Legacy（过去一年无 commit） |
 
 ---
 
@@ -85,21 +87,23 @@ gh api repos/nocoo/{repo_name} --jq '.description'
    > **原因说明：** 这两个项目虽然近期有少量 commit，但仅用于更新开源协议等维护性工作，项目本身已不再活跃开发。
 
 3. **排序规则：**
-   - 按 commit 数量降序排列
-   - Recent Projects 和 Legacy Projects 分别排序
+   - **Recent Projects：** 按项目创建时间降序排列（最新创建的项目在最上面）
+   - **Legacy Projects：** 保持现有顺序不变
 
 3. **输出分类结果：**
 
-**Recent Projects（按 commit 数量排序）：**
-| 排序 | Repo | Commits | 最后更新 | 描述 |
+**Recent Projects（按创建时间排序）：**
+| 排序 | Repo | 创建时间 | 最后更新 | 描述 |
 |-----|------|---------|---------|-----|
-| 1 | noheir | 187 | 2026-02-03 | Personal finance tracker... |
-| 2 | runner | 78 | 2026-02-03 | Declarative task scheduler... |
+| 1 | basalt | 2026-02-11 | 2026-02-13 | Dense. Dark. Durable... |
+| 2 | life.ai | 2026-02-02 | 2026-02-13 | Unified personal data hub... |
+| 3 | deca | 2026-01-31 | 2026-02-11 | Local-first macOS AI agent... |
 
-**Legacy Projects（按 commit 数量排序）：**
-| 排序 | Repo | Commits | 最后更新 | 描述 |
-|-----|------|---------|---------|-----|
-| 1 | infoviz | 141 | 2020-02-24 | A lightweight JavaScript library... |
+**Legacy Projects（保持现有顺序）：**
+| 排序 | Repo | 最后更新 | 描述 |
+|-----|------|---------|-----|
+| 1 | infoviz | 2020-02-24 | A lightweight JavaScript library... |
+| 2 | jsinst | 2013-05-06 | A JavaScript instrumentation... |
 
 ---
 
@@ -112,15 +116,16 @@ gh api repos/nocoo/{repo_name} --jq '.description'
 
    a. **Recent Projects 部分：**
    - 使用 `## Recent Projects` 标题
-   - 每个项目格式：`- {emoji} **[{Repo名称}](https://github.com/nocoo/{repo})** ({commits} commits) - {描述}`
-   - 按 commit 数量降序排列
-   - 仅包含最近一年有活跃的项目
+   - 每个项目格式：`- {emoji} **[{Repo名称}](https://github.com/nocoo/{repo})** - {描述}`
+   - **新增项目添加在最上面**（即最新创建/开始的项目在最前）
+   - **不需要修改下面已有的旧项目**，保持它们的原有顺序和内容
+   - 包含过去一年内有 commit 的所有项目
 
    b. **Legacy Projects 部分：**
    - 使用 `### Legacy Projects` 标题
    - 每个项目格式：`- {emoji} **[{Repo名称}](https://github.com/nocoo/{repo})** - {描述}`
-   - 按 commit 数量降序排列
-   - 包含最近一年没有活跃的项目
+   - 保持现有项目不变
+   - 包含过去一年没有 commit 的项目
 
 3. **Emoji 映射规则：**
    - 使用现有 README 中的 emoji 映射
@@ -147,9 +152,9 @@ gh api repos/nocoo/{repo_name} --jq '.description'
 
 | 区域 | 变更类型 | 详情 |
 |-----|---------|-----|
-| Recent Projects | 新增 | life.ai, wp-theme-cele-rev, mcp-make-sound, ccbackup |
-| Recent Projects | 顺序调整 | 按 commit 数量重新排序 |
-| Legacy Projects | 移动 | infoviz, jsinst, infoviz-builder, nodehub 移至 Legacy |
+| Recent Projects | 新增 | 新项目添加到列表最上方 |
+| Recent Projects | 保留 | 已有项目保持原位置和内容不变 |
+| Legacy Projects | 保持 | 现有项目不做修改 |
 
 ---
 
@@ -172,24 +177,24 @@ gh api repos/nocoo/{repo_name} --jq '.description'
 ```markdown
 ## Recent Projects
 
-- 💰 **[Noheir](https://github.com/nocoo/noheir)** (187 commits) - Personal finance tracker for income, expenses, and assets with analytics dashboards
-- 📰 **[GeekHub](https://github.com/nocoo/geekhub)** (84 commits) - Self-hosted RSS reader with AI summarization and translation, built with Next.js
-- ⏰ **[Runner](https://github.com/nocoo/runner)** (78 commits) - Declarative task scheduler for macOS that runs AI jobs via launchd and opencode
-- 🧭 **[Deca](https://github.com/nocoo/deca)** (63 commits) - Local-first macOS control gateway for AI agents with Elysia API and a debug console
-- 🔍 **[X-Ray](https://github.com/nocoo/xray)** (42 commits) - Twitter/X monitoring system that generates AI-written Markdown insight reports
-- 🧬 **[Life.ai](https://github.com/nocoo/life.ai)** (33 commits) - Unified platform for managing health data, location footprints, and personal finances with structured storage and visualization
-- 🎨 **[WP-Theme-Cele-Rev](https://github.com/nocoo/wp-theme-cele-rev)** (26 commits) - A customized WordPress theme based on CeleRev for personal blog
-- 🔊 **[MCP-Make-Sound](https://github.com/nocoo/mcp-make-sound)** (23 commits) - A Model Context Protocol (MCP) server that provides system sound playback capabilities for macOS
-- 🔗 **[Zhe](https://github.com/nocoo/zhe)** (18 commits) - TypeScript URL shortener with clean links and analytics-ready storage
-- 🚀 **[Echo](https://github.com/nocoo/echo)** (15 commits) - API-only IP lookup service built with Bun and TypeScript
-- 💾 **[CCBackup](https://github.com/nocoo/ccbackup)** (10 commits) - A Python utility to backup and restore Claude Code configuration files
+- 🛡️ **[surety](https://github.com/nocoo/surety)** - A privacy-first, local-first family insurance policy management tool built with Next.js and SQLite
+- 🧭 **[deca](https://github.com/nocoo/deca)** - Local-first macOS AI agent gateway with multi-channel support (Discord, Terminal, HTTP) and tool orchestration
+- 🧬 **[life.ai](https://github.com/nocoo/life.ai)** - A unified personal data hub for health metrics, location footprints, and expense tracking
+- ⏰ **[runner](https://github.com/nocoo/runner)** - Declarative task scheduler for macOS that runs AI jobs via launchd and opencode
+- 💰 **[noheir](https://github.com/nocoo/noheir)** - Personal finance tracker for income, expenses, and assets with analytics dashboards
+- 🚀 **[echo](https://github.com/nocoo/echo)** - API-only IP lookup service built with Bun and TypeScript
+- 🔍 **[xray](https://github.com/nocoo/xray)** - Twitter/X monitoring system that generates AI-written Markdown insight reports
+- 📰 **[geekhub](https://github.com/nocoo/geekhub)** - Self-hosted RSS reader with AI summarization and translation, built with Next.js
+- 🎨 **[wp-theme-cele-rev](https://github.com/nocoo/wp-theme-cele-rev)** - A customized WordPress theme based on CeleRev for personal blog
+- 🔊 **[mcp-make-sound](https://github.com/nocoo/mcp-make-sound)** - A Model Context Protocol (MCP) server that provides system sound playback capabilities for macOS
+- 💾 **[ccbackup](https://github.com/nocoo/ccbackup)** - A Python utility to backup and restore Claude Code configuration files
 
 ### Legacy Projects
 
-- 📊 **[InfoViz](https://github.com/nocoo/infoviz)** - A lightweight JavaScript library for creating beautiful, interactive data visualizations
-- 📄 **[Doc-Doctor](https://github.com/nocoo/doc-doctor.com)** - A study abroad document service platform built with Node.js and Express (Legacy project, no longer maintained)
-- 🏠 **[Huran.cc](https://github.com/nocoo/huran.cc)** - An art e-commerce platform connecting artists with collectors (Legacy project, no longer maintained)
-- ⚡ **[JSInst](https://github.com/nocoo/jsinst)** - A JavaScript instrumentation and performance toolkit
-- 🛠️ **[InfoViz Builder](https://github.com/nocoo/infoviz-builder)** - Visual creator for InfoViz charts
-- 🔌 **[NodeHub](https://github.com/nocoo/nodehub)** - A hub for Node.js services
+- 📊 **[infoviz](https://github.com/nocoo/infoviz)** - A lightweight JavaScript library for creating beautiful, interactive data visualizations
+- 📄 **[doc-doctor.com](https://github.com/nocoo/doc-doctor.com)** - A study abroad document service platform built with Node.js and Express (Legacy project, no longer maintained)
+- 🏠 **[huran.cc](https://github.com/nocoo/huran.cc)** - An art e-commerce platform connecting artists with collectors (Legacy project, no longer maintained)
+- ⚡ **[jsinst](https://github.com/nocoo/jsinst)** - A JavaScript instrumentation and performance toolkit
+- 🛠️ **[infoviz-builder](https://github.com/nocoo/infoviz-builder)** - Visual creator for InfoViz charts
+- 🔌 **[nodehub](https://github.com/nocoo/nodehub)** - A hub for Node.js services
 ```

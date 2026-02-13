@@ -25,19 +25,19 @@
 
 ## Recent Projects
 
-- 🧭 **[deca](https://github.com/nocoo/deca)** (393 commits) - Local-first macOS AI agent gateway with multi-channel support (Discord, Terminal, HTTP) and tool orchestration
-- 💰 **[noheir](https://github.com/nocoo/noheir)** (259 commits) - Personal finance tracker for income, expenses, and assets with analytics dashboards
-- 🛡️ **[surety](https://github.com/nocoo/surety)** (200 commits) - A privacy-first, local-first family insurance policy management tool built with Next.js and SQLite
-- 🎨 **[basalt](https://github.com/nocoo/basalt)** (170 commits) - Dense. Dark. Durable. A matte-dark design system engineered for high-density SaaS interfaces
-- 🧬 **[life.ai](https://github.com/nocoo/life.ai)** (150 commits) - A unified personal data hub for health metrics, location footprints, and expense tracking
-- ⏰ **[runner](https://github.com/nocoo/runner)** (117 commits) - Declarative task scheduler for macOS that runs AI jobs via launchd and opencode
-- 📰 **[geekhub](https://github.com/nocoo/geekhub)** (91 commits) - Self-hosted RSS reader with AI summarization and translation, built with Next.js
-- 🔗 **[zhe](https://github.com/nocoo/zhe)** (61 commits) - TypeScript URL shortener with clean links and analytics-ready storage
-- 🔍 **[xray](https://github.com/nocoo/xray)** (42 commits) - Twitter/X monitoring system that generates AI-written Markdown insight reports
-- 🎨 **[wp-theme-cele-rev](https://github.com/nocoo/wp-theme-cele-rev)** (26 commits) - A customized WordPress theme based on CeleRev for personal blog
-- 🔊 **[mcp-make-sound](https://github.com/nocoo/mcp-make-sound)** (23 commits) - A Model Context Protocol (MCP) server that provides system sound playback capabilities for macOS
-- 🚀 **[echo](https://github.com/nocoo/echo)** (15 commits) - API-only IP lookup service built with Bun and TypeScript
-- 💾 **[ccbackup](https://github.com/nocoo/ccbackup)** (10 commits) - A Python utility to backup and restore Claude Code configuration files
+- 🎨 **[basalt](https://github.com/nocoo/basalt)** - Dense. Dark. Durable. A matte-dark design system engineered for high-density SaaS interfaces
+- 🛡️ **[surety](https://github.com/nocoo/surety)** - A privacy-first, local-first family insurance policy management tool built with Next.js and SQLite
+- 🧬 **[life.ai](https://github.com/nocoo/life.ai)** - A unified personal data hub for health metrics, location footprints, and expense tracking
+- 🚀 **[echo](https://github.com/nocoo/echo)** - API-only IP lookup service built with Bun and TypeScript
+- 🧭 **[deca](https://github.com/nocoo/deca)** - Local-first macOS AI agent gateway with multi-channel support (Discord, Terminal, HTTP) and tool orchestration
+- ⏰ **[runner](https://github.com/nocoo/runner)** - Declarative task scheduler for macOS that runs AI jobs via launchd and opencode
+- 🔍 **[xray](https://github.com/nocoo/xray)** - Twitter/X monitoring system that generates AI-written Markdown insight reports
+- 🔗 **[zhe](https://github.com/nocoo/zhe)** - TypeScript URL shortener with clean links and analytics-ready storage
+- 🎨 **[wp-theme-cele-rev](https://github.com/nocoo/wp-theme-cele-rev)** - A customized WordPress theme based on CeleRev for personal blog
+- 📰 **[geekhub](https://github.com/nocoo/geekhub)** - Self-hosted RSS reader with AI summarization and translation, built with Next.js
+- 💾 **[ccbackup](https://github.com/nocoo/ccbackup)** - A Python utility to backup and restore Claude Code configuration files
+- 💰 **[noheir](https://github.com/nocoo/noheir)** - Personal finance tracker for income, expenses, and assets with analytics dashboards
+- 🔊 **[mcp-make-sound](https://github.com/nocoo/mcp-make-sound)** - A Model Context Protocol (MCP) server that provides system sound playback capabilities for macOS
 
 ### Legacy Projects
 
