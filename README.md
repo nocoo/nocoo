@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🐑 **[wooly](https://github.com/nocoo/wooly)** - 🐑 The missing dashboard for your scattered family perks. Track credit card rewards, insurance benefits, and membership rights before they expire.
 - 🎨 **[basalt](https://github.com/nocoo/basalt)** - Dense. Dark. Durable. A matte-dark design system engineered for high-density SaaS interfaces
 - 🛡️ **[surety](https://github.com/nocoo/surety)** - A privacy-first, local-first family insurance policy management tool built with Next.js and SQLite
 - 🧬 **[life.ai](https://github.com/nocoo/life.ai)** - A unified personal data hub for health metrics, location footprints, and expense tracking
