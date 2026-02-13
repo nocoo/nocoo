@@ -25,10 +25,13 @@
 
 ## Recent Projects
 
+- 🖼️ **[image-stitch](https://github.com/nocoo/image-stitch)** - A Python tool for seamlessly stitching multiple scrolling screenshots into a single image
+- 📨 **[microsoft-teams-send-as-workflow](https://github.com/nocoo/microsoft-teams-send-as-workflow)** - Send messages and Adaptive Cards to Microsoft Teams channels via Incoming Webhook
 - 🎨 **[basalt](https://github.com/nocoo/basalt)** - Dense. Dark. Durable. A matte-dark design system engineered for high-density SaaS interfaces
 - 🛡️ **[surety](https://github.com/nocoo/surety)** - A privacy-first, local-first family insurance policy management tool built with Next.js and SQLite
 - 🧬 **[life.ai](https://github.com/nocoo/life.ai)** - A unified personal data hub for health metrics, location footprints, and expense tracking
 - 🚀 **[echo](https://github.com/nocoo/echo)** - API-only IP lookup service built with Bun and TypeScript
+- 🎙️ **[skill-faster-whisper](https://github.com/nocoo/skill-faster-whisper)** - A Claude Code skill for fast speech-to-text transcription powered by faster-whisper
 - 🧭 **[deca](https://github.com/nocoo/deca)** - Local-first macOS AI agent gateway with multi-channel support (Discord, Terminal, HTTP) and tool orchestration
 - ⏰ **[runner](https://github.com/nocoo/runner)** - Declarative task scheduler for macOS that runs AI jobs via launchd and opencode
 - 🔍 **[xray](https://github.com/nocoo/xray)** - Twitter/X monitoring system that generates AI-written Markdown insight reports
@@ -36,8 +39,10 @@
 - 🎨 **[wp-theme-cele-rev](https://github.com/nocoo/wp-theme-cele-rev)** - A customized WordPress theme based on CeleRev for personal blog
 - 📰 **[geekhub](https://github.com/nocoo/geekhub)** - Self-hosted RSS reader with AI summarization and translation, built with Next.js
 - 💾 **[ccbackup](https://github.com/nocoo/ccbackup)** - A Python utility to backup and restore Claude Code configuration files
+- 📨 **[skill-task-notifier](https://github.com/nocoo/skill-task-notifier)** - A Python notification service that monitors and alerts on task execution status
 - 💰 **[noheir](https://github.com/nocoo/noheir)** - Personal finance tracker for income, expenses, and assets with analytics dashboards
 - 🔊 **[mcp-make-sound](https://github.com/nocoo/mcp-make-sound)** - A Model Context Protocol (MCP) server that provides system sound playback capabilities for macOS
+- 🤖 **[mcp-work-history](https://github.com/nocoo/mcp-work-history)** - MCP server for logging AI tool activities with comprehensive metrics tracking
 
 ### Legacy Projects
 
