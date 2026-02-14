@@ -25,14 +25,15 @@
 
 ## Recent Projects
 
-- 🐑 **[wooly](https://github.com/nocoo/wooly)** - The missing dashboard for your scattered family perks. Track credit card rewards, insurance benefits, and membership rights before they expire.
+- 🐑 **[wooly](https://github.com/nocoo/wooly)** - The missing dashboard for your scattered family perks. Track credit card rewards, insurance benefits, and membership rights before they expire
+- 🧩 **[matrix](https://github.com/nocoo/matrix)** - The fine-grained substrate for your digital reality. A sci-fi dashboard UI kit engineered with React and Tailwind
 - 🎨 **[basalt](https://github.com/nocoo/basalt)** - Dense. Dark. Durable. A matte-dark design system engineered for high-density SaaS interfaces
 - 🛡️ **[surety](https://github.com/nocoo/surety)** - A privacy-first, local-first family insurance policy management tool built with Next.js and SQLite
 - 🧬 **[life.ai](https://github.com/nocoo/life.ai)** - A unified personal data hub for health metrics, location footprints, and expense tracking
 - 🚀 **[echo](https://github.com/nocoo/echo)** - API-only IP lookup service built with Bun and TypeScript
 - 🧭 **[deca](https://github.com/nocoo/deca)** - Local-first macOS AI agent gateway with multi-channel support (Discord, Terminal, HTTP) and tool orchestration
-- 📨 **[microsoft-teams-send-as-workflow](https://github.com/nocoo/microsoft-teams-send-as-workflow)** - Send messages and Adaptive Cards to Microsoft Teams channels via Incoming Webhook
 - ⏰ **[runner](https://github.com/nocoo/runner)** - Declarative task scheduler for macOS that runs AI jobs via launchd and opencode
+- 📨 **[microsoft-teams-send-as-workflow](https://github.com/nocoo/microsoft-teams-send-as-workflow)** - Send messages and Adaptive Cards to Microsoft Teams channels via Incoming Webhook
 - 🖼️ **[image-stitch](https://github.com/nocoo/image-stitch)** - A Python tool for seamlessly stitching multiple scrolling screenshots into a single image
 - 🔍 **[xray](https://github.com/nocoo/xray)** - Twitter/X monitoring system that generates AI-written Markdown insight reports
 - 🔗 **[zhe](https://github.com/nocoo/zhe)** - TypeScript URL shortener with clean links and analytics-ready storage
@@ -42,6 +43,7 @@
 - 🎙️ **[skill-faster-whisper](https://github.com/nocoo/skill-faster-whisper)** - A Claude Code skill for fast speech-to-text transcription powered by faster-whisper
 - 💰 **[noheir](https://github.com/nocoo/noheir)** - Personal finance tracker for income, expenses, and assets with analytics dashboards
 - 📨 **[skill-task-notifier](https://github.com/nocoo/skill-task-notifier)** - A Python notification service that monitors and alerts on task execution status
+- 🛡️ **[ipsafe](https://github.com/nocoo/ipsafe)** - A CLI tool that validates network connectivity before executing commands
 - 🤖 **[mcp-work-history](https://github.com/nocoo/mcp-work-history)** - MCP server for logging AI tool activities with comprehensive metrics tracking
 - 🔊 **[mcp-make-sound](https://github.com/nocoo/mcp-make-sound)** - A Model Context Protocol (MCP) server that provides system sound playback capabilities for macOS
 
@@ -53,6 +55,12 @@
 - 🔌 **[nodehub](https://github.com/nocoo/nodehub)** - A hub for Node.js services
 - 🏠 **[huran.cc](https://github.com/nocoo/huran.cc)** - An art e-commerce platform connecting artists with collectors (Legacy project, no longer maintained)
 - 📄 **[doc-doctor.com](https://github.com/nocoo/doc-doctor.com)** - A study abroad document service platform built with Node.js and Express (Legacy project, no longer maintained)
+- 🔧 **[nodeviz](https://github.com/nocoo/nodeviz)** - Node.js visualization toolkit
+- 🌐 **[express-spa](https://github.com/nocoo/express-spa)** - Single page web app approach based on Express.js
+- 🔧 **[discuz-recovery](https://github.com/nocoo/discuz-recovery)** - Recovery Discuz! posts data from old backup
+- 📬 **[feedmaid](https://github.com/nocoo/feedmaid)** - An Express application which collects user feedback and visualizes them
+- 📱 **[infoviz-ios](https://github.com/nocoo/infoviz-ios)** - InfoViz on iOS
+- 🖼️ **[node-image-uploader](https://github.com/nocoo/node-image-uploader)** - A Node.js image uploader utility
 
 ## Latest Blog Posts
 
