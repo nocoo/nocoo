@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🔲 **[dotty](https://github.com/nocoo/dotty)** - Pixel-brutalist dashboard template with cool-toned monochrome, sharp geometry, stacked-block charts, and 2-layer cards
 - 🐑 **[wooly](https://github.com/nocoo/wooly)** - The missing dashboard for your scattered family perks. Track credit card rewards, insurance benefits, and membership rights before they expire
 - 🧩 **[matrix](https://github.com/nocoo/matrix)** - The fine-grained substrate for your digital reality. A sci-fi dashboard UI kit engineered with React and Tailwind
 - 🎨 **[basalt](https://github.com/nocoo/basalt)** - Dense. Dark. Durable. A matte-dark design system engineered for high-density SaaS interfaces
@@ -47,7 +48,7 @@
 - 🤖 **[mcp-work-history](https://github.com/nocoo/mcp-work-history)** - MCP server for logging AI tool activities with comprehensive metrics tracking
 - 🔊 **[mcp-make-sound](https://github.com/nocoo/mcp-make-sound)** - A Model Context Protocol (MCP) server that provides system sound playback capabilities for macOS
 
-### Legacy Projects
+## Legacy Projects
 
 - 📊 **[infoviz](https://github.com/nocoo/infoviz)** - A lightweight JavaScript library for creating beautiful, interactive data visualizations
 - ⚡ **[jsinst](https://github.com/nocoo/jsinst)** - A JavaScript instrumentation and performance toolkit
