@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🪝 **[hooky](https://github.com/nocoo/hooky)** - Chrome extension to configure and trigger webhooks with page context from the toolbar, context menu, or one-click Quick Send
 - 🔲 **[dotty](https://github.com/nocoo/dotty)** - Pixel-brutalist dashboard template with cool-toned monochrome, sharp geometry, stacked-block charts, and 2-layer cards
 - 🐑 **[wooly](https://github.com/nocoo/wooly)** - The missing dashboard for your scattered family perks. Track credit card rewards, insurance benefits, and membership rights before they expire
 - 🧩 **[matrix](https://github.com/nocoo/matrix)** - The fine-grained substrate for your digital reality. A sci-fi dashboard UI kit engineered with React and Tailwind
