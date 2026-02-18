@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🪶 **[shrike](https://github.com/nocoo/shrike)** - A lightweight macOS menu bar utility that syncs files and folders to Google Drive using rsync
 - 🐙 **[hooky](https://github.com/nocoo/hooky)** - Chrome extension to configure and trigger webhooks with page context from the toolbar, context menu, or one-click Quick Send
 - 🔲 **[dotty](https://github.com/nocoo/dotty)** - Pixel-brutalist dashboard template with cool-toned monochrome, sharp geometry, stacked-block charts, and 2-layer cards
 - 🐑 **[wooly](https://github.com/nocoo/wooly)** - The missing dashboard for your scattered family perks. Track credit card rewards, insurance benefits, and membership rights before they expire
