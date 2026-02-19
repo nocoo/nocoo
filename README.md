@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🐬 **[r2shot](https://github.com/nocoo/r2shot)** - One-click screenshot capture, upload to Cloudflare R2, CDN URL to clipboard
 - 🪶 **[shrike](https://github.com/nocoo/shrike)** - A lightweight macOS menu bar utility that syncs files and folders to Google Drive using rsync
 - 🐙 **[hooky](https://github.com/nocoo/hooky)** - Chrome extension to configure and trigger webhooks with page context from the toolbar, context menu, or one-click Quick Send
 - 🔲 **[dotty](https://github.com/nocoo/dotty)** - Pixel-brutalist dashboard template with cool-toned monochrome, sharp geometry, stacked-block charts, and 2-layer cards
