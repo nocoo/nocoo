@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🎶 **[lyre](https://github.com/nocoo/lyre)** - Audio recording management and transcription platform with word-level karaoke playback
 - 🐬 **[r2shot](https://github.com/nocoo/r2shot)** - One-click screenshot capture, upload to Cloudflare R2, CDN URL to clipboard
 - 🪶 **[shrike](https://github.com/nocoo/shrike)** - A lightweight macOS menu bar utility that syncs files and folders to Google Drive using rsync
 - 🐙 **[hooky](https://github.com/nocoo/hooky)** - Chrome extension to configure and trigger webhooks with page context from the toolbar, context menu, or one-click Quick Send
