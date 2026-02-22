@@ -29,17 +29,17 @@
 - 🎶 **[lyre](https://github.com/nocoo/lyre)** - Audio recording management and transcription platform with word-level karaoke playback
 - 🐬 **[r2shot](https://github.com/nocoo/r2shot)** - One-click screenshot capture, upload to Cloudflare R2, CDN URL to clipboard
 - 🪶 **[shrike](https://github.com/nocoo/shrike)** - A lightweight macOS menu bar utility that syncs files and folders to Google Drive using rsync
-- 🐙 **[hooky](https://github.com/nocoo/hooky)** - Chrome extension to configure and trigger webhooks with page context from the toolbar, context menu, or one-click Quick Send
-- 🔲 **[dotty](https://github.com/nocoo/dotty)** - Pixel-brutalist dashboard template with cool-toned monochrome, sharp geometry, stacked-block charts, and 2-layer cards
-- 🐑 **[wooly](https://github.com/nocoo/wooly)** - The missing dashboard for your scattered family perks. Track credit card rewards, insurance benefits, and membership rights before they expire
-- 🧩 **[matrix](https://github.com/nocoo/matrix)** - The fine-grained substrate for your digital reality. A sci-fi dashboard UI kit engineered with React and Tailwind
+- 🐙 **[hooky](https://github.com/nocoo/hooky)** - Chrome extension to configure and trigger webhooks from the toolbar, context menu, or Quick Send
+- 🔲 **[dotty](https://github.com/nocoo/dotty)** - Pixel-brutalist dashboard template with cool-toned monochrome, sharp geometry, and stacked-block charts
+- 🐑 **[wooly](https://github.com/nocoo/wooly)** - Dashboard for family perks — track credit card rewards, insurance benefits, and memberships before expiry
+- 🧩 **[matrix](https://github.com/nocoo/matrix)** - The fine-grained substrate for your digital reality. A sci-fi dashboard UI kit with React and Tailwind
 - 🎨 **[basalt](https://github.com/nocoo/basalt)** - Dense. Dark. Durable. A matte-dark design system engineered for high-density SaaS interfaces
 - 🛡️ **[surety](https://github.com/nocoo/surety)** - A privacy-first, local-first family insurance policy management tool built with Next.js and SQLite
 - 🧬 **[life.ai](https://github.com/nocoo/life.ai)** - A unified personal data hub for health metrics, location footprints, and expense tracking
 - 🚀 **[echo](https://github.com/nocoo/echo)** - API-only IP lookup service built with Bun and TypeScript
-- 🧭 **[deca](https://github.com/nocoo/deca)** - Local-first macOS AI agent gateway with multi-channel support (Discord, Terminal, HTTP) and tool orchestration
+- 🧭 **[deca](https://github.com/nocoo/deca)** - Local-first macOS AI agent gateway with multi-channel support (Discord, Terminal, HTTP)
 - ⏰ **[runner](https://github.com/nocoo/runner)** - Declarative task scheduler for macOS that runs AI jobs via launchd and opencode
-- 📨 **[microsoft-teams-send-as-workflow](https://github.com/nocoo/microsoft-teams-send-as-workflow)** - Send messages and Adaptive Cards to Microsoft Teams channels via Incoming Webhook
+- 📨 **[microsoft-teams-send-as-workflow](https://github.com/nocoo/microsoft-teams-send-as-workflow)** - Send messages and Adaptive Cards to Microsoft Teams channels via Webhook
 - 🖼️ **[image-stitch](https://github.com/nocoo/image-stitch)** - A Python tool for seamlessly stitching multiple scrolling screenshots into a single image
 - 🔍 **[xray](https://github.com/nocoo/xray)** - Twitter/X monitoring system that generates AI-written Markdown insight reports
 - 🔗 **[zhe](https://github.com/nocoo/zhe)** - TypeScript URL shortener with clean links and analytics-ready storage
