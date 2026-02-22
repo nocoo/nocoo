@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🤠 **[pew.md](https://github.com/nocoo/pew.md)** - Pixel art twin-stick prairie shooter in the browser, with leaderboard and anti-cheat ([Play](https://pew.md))
 - 🎶 **[lyre](https://github.com/nocoo/lyre)** - Audio recording management and transcription platform with word-level karaoke playback
 - 🐬 **[r2shot](https://github.com/nocoo/r2shot)** - One-click screenshot capture, upload to Cloudflare R2, CDN URL to clipboard
 - 🪶 **[shrike](https://github.com/nocoo/shrike)** - A lightweight macOS menu bar utility that syncs files and folders to Google Drive using rsync
