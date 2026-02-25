@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🦋 **[xray](https://github.com/nocoo/xray)** - Personal Twitter/X analytics dashboard with tweet exploration, user insights, and AI-powered reporting
 - 🐢 **[backy](https://github.com/nocoo/backy)** - AI backup service for receiving, storing, previewing, and restoring backups from AI agents
 - 🤠 **[pew.md](https://github.com/nocoo/pew.md)** - Pixel art twin-stick prairie shooter in the browser, with leaderboard and anti-cheat ([Play](https://pew.md))
 - 🎶 **[lyre](https://github.com/nocoo/lyre)** - Audio recording management and transcription platform with word-level karaoke playback
@@ -42,7 +43,6 @@
 - ⏰ **[runner](https://github.com/nocoo/runner)** - Declarative task scheduler for macOS that runs AI jobs via launchd and opencode
 - 📨 **[microsoft-teams-send-as-workflow](https://github.com/nocoo/microsoft-teams-send-as-workflow)** - Send messages and Adaptive Cards to Microsoft Teams channels via Webhook
 - 🖼️ **[image-stitch](https://github.com/nocoo/image-stitch)** - A Python tool for seamlessly stitching multiple scrolling screenshots into a single image
-- 🔍 **[xray](https://github.com/nocoo/xray)** - Twitter/X monitoring system that generates AI-written Markdown insight reports
 - 🔗 **[zhe](https://github.com/nocoo/zhe)** - TypeScript URL shortener with clean links and analytics-ready storage
 - 🎨 **[wp-theme-cele-rev](https://github.com/nocoo/wp-theme-cele-rev)** - A customized WordPress theme based on CeleRev for personal blog
 - 📰 **[geekhub](https://github.com/nocoo/geekhub)** - Self-hosted RSS reader with AI summarization and translation, built with Next.js
