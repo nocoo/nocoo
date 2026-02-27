@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🦎 **[gecko](https://github.com/nocoo/gecko)** - macOS menu bar screen time tracker with cloud-synced web dashboard and app categorization
 - 🦋 **[xray](https://github.com/nocoo/xray)** - Personal Twitter/X analytics dashboard with tweet exploration, user insights, and AI-powered reporting
 - 🐢 **[backy](https://github.com/nocoo/backy)** - AI backup service for receiving, storing, previewing, and restoring backups from AI agents
 - 🤠 **[pew.md](https://github.com/nocoo/pew.md)** - Pixel art twin-stick prairie shooter in the browser, with leaderboard and anti-cheat ([Play](https://pew.md))
