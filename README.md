@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🦦 **[otter](https://github.com/nocoo/otter)** - macOS developer environment backup tool with snapshot diffing, cloud sync, and a web dashboard
 - 🦎 **[gecko](https://github.com/nocoo/gecko)** - macOS menu bar screen time tracker with cloud-synced web dashboard and app categorization
 - 🦋 **[xray](https://github.com/nocoo/xray)** - Personal Twitter/X analytics dashboard with tweet exploration, user insights, and AI-powered reporting
 - 🐢 **[backy](https://github.com/nocoo/backy)** - AI backup service for receiving, storing, previewing, and restoring backups from AI agents
