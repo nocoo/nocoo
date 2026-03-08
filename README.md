@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🦉 **[owl](https://github.com/nocoo/owl)** - macOS menu bar system health monitor that watches the unified log stream and surfaces anomalies in real time
 - 🦦 **[otter](https://github.com/nocoo/otter)** - macOS developer environment backup tool with snapshot diffing, cloud sync, and a web dashboard
 - 🦎 **[gecko](https://github.com/nocoo/gecko)** - macOS menu bar screen time tracker with cloud-synced web dashboard and app categorization
 - 🦋 **[xray](https://github.com/nocoo/xray)** - Personal Twitter/X analytics dashboard with tweet exploration, user insights, and AI-powered reporting
