@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🦓 **[pew](https://github.com/nocoo/pew)** - The contribution graph for AI-native developers — track and visualize your token usage across coding tools
 - 🦉 **[owl](https://github.com/nocoo/owl)** - macOS menu bar system health monitor that watches the unified log stream and surfaces anomalies in real time
 - 🦦 **[otter](https://github.com/nocoo/otter)** - macOS developer environment backup tool with snapshot diffing, cloud sync, and a web dashboard
 - 🦎 **[gecko](https://github.com/nocoo/gecko)** - macOS menu bar screen time tracker with cloud-synced web dashboard and app categorization
