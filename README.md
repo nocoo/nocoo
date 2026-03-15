@@ -25,6 +25,9 @@
 
 ## Recent Projects
 
+- 🐦‍⬛ **[raven](https://github.com/nocoo/raven)** - GitHub Copilot proxy that translates requests to Anthropic/OpenAI-compatible APIs with a usage dashboard
+- ⚡ **[pika](https://github.com/nocoo/pika)** - AI coding session replay and search SaaS — parse, upload, browse, and full-text search agent conversations
+- 🏟️ **[arena](https://github.com/nocoo/arena)** - Local AI coding agent debate platform — multiple agents push solutions, humans review and checkpoint
 - 🦓 **[pew](https://github.com/nocoo/pew)** - The contribution graph for AI-native developers — track and visualize your token usage across coding tools
 - 🦉 **[owl](https://github.com/nocoo/owl)** - macOS menu bar system health monitor that watches the unified log stream and surfaces anomalies in real time
 - 🦦 **[otter](https://github.com/nocoo/otter)** - macOS developer environment backup tool with snapshot diffing, cloud sync, and a web dashboard
