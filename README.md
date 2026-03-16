@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🦇 **[bat](https://github.com/nocoo/bat)** - Lightweight VPS monitoring — Rust probe, Cloudflare Worker, and Next.js dashboard replacing Netdata
 - 🐦‍⬛ **[raven](https://github.com/nocoo/raven)** - GitHub Copilot proxy that translates requests to Anthropic/OpenAI-compatible APIs with a usage dashboard
 - ⚡ **[pika](https://github.com/nocoo/pika)** - AI coding session replay and search SaaS — parse, upload, browse, and full-text search agent conversations
 - 🏟️ **[arena](https://github.com/nocoo/arena)** - Local AI coding agent debate platform — multiple agents push solutions, humans review and checkpoint
