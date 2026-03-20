@@ -26,9 +26,7 @@
 ## Recent Projects
 
 - 🔐 **[neo](https://github.com/nocoo/neo)** - Modern TOTP/HOTP authenticator — full-stack 2FA manager with encrypted storage, 18+ import formats, and PWA offline support
-- 🩺 **[uptime-kuma-skill](https://github.com/nocoo/uptime-kuma-skill)** - AI agent skill for managing Uptime Kuma monitors — status checks, SSL certs, response times, and full CRUD via Socket.IO
 - 🔔 **[codo](https://github.com/nocoo/codo)** - macOS menubar toast notification daemon and CLI — a notification bridge for Claude Code hooks and AI agent workflows
-- 📄 **[lizheng.dev](https://github.com/nocoo/lizheng.dev)** - Personal resume and portfolio site showcasing career highlights and open source work
 - 🦇 **[bat](https://github.com/nocoo/bat)** - Lightweight VPS monitoring — Rust probe, Cloudflare Worker, and Next.js dashboard replacing Netdata
 - 🐦‍⬛ **[raven](https://github.com/nocoo/raven)** - GitHub Copilot proxy that translates requests to Anthropic/OpenAI-compatible APIs with a usage dashboard
 - ⚡ **[pika](https://github.com/nocoo/pika)** - AI coding session replay and search SaaS — parse, upload, browse, and full-text search agent conversations
@@ -53,16 +51,20 @@
 - 🚀 **[echo](https://github.com/nocoo/echo)** - API-only IP lookup service built with Bun and TypeScript
 - 🧭 **[deca](https://github.com/nocoo/deca)** - Local-first macOS AI agent gateway with multi-channel support (Discord, Terminal, HTTP)
 - ⏰ **[runner](https://github.com/nocoo/runner)** - Declarative task scheduler for macOS that runs AI jobs via launchd and opencode
-- 📨 **[microsoft-teams-send-as-workflow](https://github.com/nocoo/microsoft-teams-send-as-workflow)** - Send messages and Adaptive Cards to Microsoft Teams channels via Webhook
-- 🖼️ **[image-stitch](https://github.com/nocoo/image-stitch)** - A Python tool for seamlessly stitching multiple scrolling screenshots into a single image
 - 🔗 **[zhe](https://github.com/nocoo/zhe)** - TypeScript URL shortener with clean links and analytics-ready storage
 - 🎨 **[wp-theme-cele-rev](https://github.com/nocoo/wp-theme-cele-rev)** - A customized WordPress theme based on CeleRev for personal blog
 - 📰 **[geekhub](https://github.com/nocoo/geekhub)** - Self-hosted RSS reader with AI summarization and translation, built with Next.js
 - 💾 **[ccbackup](https://github.com/nocoo/ccbackup)** - A Python utility to backup and restore Claude Code configuration files
-- 🎙️ **[skill-faster-whisper](https://github.com/nocoo/skill-faster-whisper)** - A Claude Code skill for fast speech-to-text transcription powered by faster-whisper
 - 💰 **[noheir](https://github.com/nocoo/noheir)** - Personal finance tracker for income, expenses, and assets with analytics dashboards
-- 📨 **[skill-task-notifier](https://github.com/nocoo/skill-task-notifier)** - A Python notification service that monitors and alerts on task execution status
 - 🛡️ **[ipsafe](https://github.com/nocoo/ipsafe)** - A CLI tool that validates network connectivity before executing commands
+
+## Skills & MCP Servers
+
+- 🩺 **[uptime-kuma-skill](https://github.com/nocoo/uptime-kuma-skill)** - AI agent skill for managing Uptime Kuma monitors — status checks, SSL certs, response times, and full CRUD via Socket.IO
+- 📨 **[microsoft-teams-send-as-workflow](https://github.com/nocoo/microsoft-teams-send-as-workflow)** - Send messages and Adaptive Cards to Microsoft Teams channels via Webhook
+- 🖼️ **[image-stitch](https://github.com/nocoo/image-stitch)** - A Python tool for seamlessly stitching multiple scrolling screenshots into a single image
+- 🎙️ **[skill-faster-whisper](https://github.com/nocoo/skill-faster-whisper)** - A Claude Code skill for fast speech-to-text transcription powered by faster-whisper
+- 📨 **[skill-task-notifier](https://github.com/nocoo/skill-task-notifier)** - A Python notification service that monitors and alerts on task execution status
 - 🤖 **[mcp-work-history](https://github.com/nocoo/mcp-work-history)** - MCP server for logging AI tool activities with comprehensive metrics tracking
 - 🔊 **[mcp-make-sound](https://github.com/nocoo/mcp-make-sound)** - A Model Context Protocol (MCP) server that provides system sound playback capabilities for macOS
 
