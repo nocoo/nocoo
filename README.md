@@ -37,7 +37,7 @@
 - 🦎 **[gecko](https://github.com/nocoo/gecko)** - macOS menu bar screen time tracker with cloud-synced web dashboard and app categorization
 - 🦋 **[xray](https://github.com/nocoo/xray)** - Personal Twitter/X analytics dashboard with tweet exploration, user insights, and AI-powered reporting
 - 🐢 **[backy](https://github.com/nocoo/backy)** - AI backup service for receiving, storing, previewing, and restoring backups from AI agents
-- 🤠 **[pew.md](https://github.com/nocoo/pew.md)** - Pixel art twin-stick prairie shooter in the browser, with leaderboard and anti-cheat ([Play](https://pew.md))
+- 🤠 **[pew-game](https://github.com/nocoo/pew-game)** - Pixel art twin-stick prairie shooter in the browser, with leaderboard and anti-cheat ([Play](https://pew.hexly.ai))
 - 🎶 **[lyre](https://github.com/nocoo/lyre)** - Audio recording management and transcription platform with word-level karaoke playback
 - 🐬 **[r2shot](https://github.com/nocoo/r2shot)** - One-click screenshot capture, upload to Cloudflare R2, CDN URL to clipboard
 - 🪶 **[shrike](https://github.com/nocoo/shrike)** - A lightweight macOS menu bar utility that syncs files and folders to Google Drive using rsync
