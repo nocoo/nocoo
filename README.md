@@ -25,8 +25,8 @@
 
 ## Recent Projects
 
-- 🔐 **[neo](https://github.com/nocoo/neo)** - Modern TOTP/HOTP authenticator — full-stack 2FA manager with encrypted storage, 18+ import formats, and PWA offline support
-- 🔔 **[codo](https://github.com/nocoo/codo)** - macOS menubar toast notification daemon and CLI — a notification bridge for Claude Code hooks and AI agent workflows
+- 🔐 **[neo](https://github.com/nocoo/neo)** - Modern TOTP/HOTP authenticator — encrypted storage, 18+ import formats, PWA offline support
+- 🔔 **[codo](https://github.com/nocoo/codo)** - macOS menubar toast notification daemon and CLI — notification bridge for Claude Code hooks and AI agents
 - 🦇 **[bat](https://github.com/nocoo/bat)** - Lightweight VPS monitoring — Rust probe, Cloudflare Worker, and Next.js dashboard replacing Netdata
 - 🐦‍⬛ **[raven](https://github.com/nocoo/raven)** - GitHub Copilot proxy that translates requests to Anthropic/OpenAI-compatible APIs with a usage dashboard
 - ⚡ **[pika](https://github.com/nocoo/pika)** - AI coding session replay and search SaaS — parse, upload, browse, and full-text search agent conversations
