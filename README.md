@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🌊 **[flow](https://github.com/nocoo/flow)** - LLM-powered Chinese pinyin input method engine with DP segmentation and streaming prediction
 - 🔐 **[neo](https://github.com/nocoo/neo)** - Modern TOTP/HOTP authenticator — encrypted storage, 18+ import formats, PWA offline support
 - 🔔 **[codo](https://github.com/nocoo/codo)** - macOS menubar toast notification daemon and CLI — notification bridge for Claude Code hooks and AI agents
 - 🦇 **[bat](https://github.com/nocoo/bat)** - Lightweight VPS monitoring — Rust probe, Cloudflare Worker, and Next.js dashboard replacing Netdata
