@@ -25,6 +25,8 @@
 
 ## Recent Projects
 
+- 🔓 **[unseal](https://github.com/nocoo/unseal)** - Scan macOS quarantined apps and batch-unseal them interactively
+- 🔥 **[firefly](https://github.com/nocoo/firefly)** - Modern blog platform — Next.js 16 + Cloudflare D1 + R2, migrated from WordPress
 - 🕊️ **[dove](https://github.com/nocoo/dove)** - Self-hosted email relay service with webhook triggers, template management, and a usage dashboard
 - 🌊 **[flow](https://github.com/nocoo/flow)** - LLM-powered Chinese pinyin input method engine with DP segmentation and streaming prediction
 - 🔐 **[neo](https://github.com/nocoo/neo)** - Modern TOTP/HOTP authenticator — encrypted storage, 18+ import formats, PWA offline support
@@ -58,7 +60,13 @@
 - 📰 **[geekhub](https://github.com/nocoo/geekhub)** - Self-hosted RSS reader with AI summarization and translation, built with Next.js
 - 💾 **[ccbackup](https://github.com/nocoo/ccbackup)** - A Python utility to backup and restore Claude Code configuration files
 - 💰 **[noheir](https://github.com/nocoo/noheir)** - Personal finance tracker for income, expenses, and assets with analytics dashboards
-- 🛡️ **[ipsafe](https://github.com/nocoo/ipsafe)** - A CLI tool that validates network connectivity before executing commands
+
+## CLI Tools
+
+> Published on [npm](https://www.npmjs.com/) — install globally and use from your terminal.
+
+- 🔓 **[unseal](https://github.com/nocoo/unseal)** - Scan macOS quarantined apps and batch-unseal them interactively `npm i -g unseal`
+- 🛡️ **[ipsafe](https://github.com/nocoo/ipsafe)** - Validate network connectivity before executing commands `npm i -g ipsafe`
 
 ## Skills & MCP Servers
 
