@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🔧 **[cli-base](https://github.com/nocoo/cli-base)** - Shared CLI infrastructure for TypeScript projects — config, OAuth login, auto-update, logging
 - 🔓 **[unseal](https://github.com/nocoo/unseal)** - Scan macOS quarantined apps and batch-unseal them interactively
 - 🔥 **[firefly](https://github.com/nocoo/firefly)** - Modern blog platform — Next.js 16 + Cloudflare D1 + R2, migrated from WordPress
 - 🕊️ **[dove](https://github.com/nocoo/dove)** - Self-hosted email relay service with webhook triggers, template management, and a usage dashboard
