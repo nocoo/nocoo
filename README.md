@@ -25,49 +25,47 @@
 
 ## Recent Projects
 
-- 🔧 **[cli-base](https://github.com/nocoo/cli-base)** - Shared CLI infrastructure for TypeScript projects — config, OAuth login, auto-update, logging
+- ✍️ **[signoff.now](https://github.com/nocoo/signoff.now)** - Desktop-first developer workspace for digital signoff and approval workflows
 - 🔓 **[unseal](https://github.com/nocoo/unseal)** - Scan macOS quarantined apps and batch-unseal them interactively
 - 🔥 **[firefly](https://github.com/nocoo/firefly)** - Modern blog platform — Next.js 16 + Cloudflare D1 + R2, migrated from WordPress
-- 🕊️ **[dove](https://github.com/nocoo/dove)** - Self-hosted email relay service with webhook triggers, template management, and a usage dashboard
-- 🌊 **[flow](https://github.com/nocoo/flow)** - LLM-powered Chinese pinyin input method engine with DP segmentation and streaming prediction
-- 🔐 **[neo](https://github.com/nocoo/neo)** - Modern TOTP/HOTP authenticator — encrypted storage, 18+ import formats, PWA offline support
-- 🔔 **[codo](https://github.com/nocoo/codo)** - macOS menubar toast notification daemon and CLI — notification bridge for Claude Code hooks and AI agents
-- 🦇 **[bat](https://github.com/nocoo/bat)** - Lightweight VPS monitoring — Rust probe, Cloudflare Worker, and Next.js dashboard replacing Netdata
-- 🐦‍⬛ **[raven](https://github.com/nocoo/raven)** - GitHub Copilot proxy that translates requests to Anthropic/OpenAI-compatible APIs with a usage dashboard
-- ⚡ **[pika](https://github.com/nocoo/pika)** - AI coding session replay and search SaaS — parse, upload, browse, and full-text search agent conversations
-- 🏟️ **[arena](https://github.com/nocoo/arena)** - Local AI coding agent debate platform — multiple agents push solutions, humans review and checkpoint
-- 🦓 **[pew](https://github.com/nocoo/pew)** - The contribution graph for AI-native developers — track and visualize your token usage across coding tools
-- 🦉 **[owl](https://github.com/nocoo/owl)** - macOS menu bar system health monitor that watches the unified log stream and surfaces anomalies in real time
-- 🦦 **[otter](https://github.com/nocoo/otter)** - macOS developer environment backup tool with snapshot diffing, cloud sync, and a web dashboard
-- 🦎 **[gecko](https://github.com/nocoo/gecko)** - macOS menu bar screen time tracker with cloud-synced web dashboard and app categorization
-- 🦋 **[xray](https://github.com/nocoo/xray)** - Personal Twitter/X analytics dashboard with tweet exploration, user insights, and AI-powered reporting
-- 🐢 **[backy](https://github.com/nocoo/backy)** - AI backup service for receiving, storing, previewing, and restoring backups from AI agents
-- 🤠 **[pew-game](https://github.com/nocoo/pew-game)** - Pixel art twin-stick prairie shooter in the browser, with leaderboard and anti-cheat ([Play](https://pew.hexly.ai))
-- 🎶 **[lyre](https://github.com/nocoo/lyre)** - Audio recording management and transcription platform with word-level karaoke playback
+- 🕊️ **[dove](https://github.com/nocoo/dove)** - Self-hosted email relay with webhook triggers, templates, and usage dashboard
+- 🌊 **[flow](https://github.com/nocoo/flow)** - LLM-powered Chinese pinyin input method engine with DP segmentation
+- 🔐 **[neo](https://github.com/nocoo/neo)** - Modern TOTP/HOTP authenticator — encrypted storage, 18+ import formats, PWA
+- 🔔 **[codo](https://github.com/nocoo/codo)** - macOS menubar notification daemon and CLI — bridge for Claude Code and AI agents
+- 🦇 **[bat](https://github.com/nocoo/bat)** - Lightweight VPS monitoring — Rust probe, Cloudflare Worker, Next.js dashboard
+- 🐦‍⬛ **[raven](https://github.com/nocoo/raven)** - Copilot proxy for Anthropic/OpenAI APIs with usage dashboard
+- ⚡ **[pika](https://github.com/nocoo/pika)** - AI coding session replay and search — parse, upload, and full-text search
+- 🏟️ **[arena](https://github.com/nocoo/arena)** - Local AI coding agent debate platform — agents push solutions, humans review
+- 🦓 **[pew](https://github.com/nocoo/pew)** - Contribution graph for AI-native developers — track token usage across tools
+- 🦉 **[owl](https://github.com/nocoo/owl)** - macOS menu bar system health monitor via unified log stream anomaly detection
+- 🦦 **[otter](https://github.com/nocoo/otter)** - macOS dev environment backup with snapshot diffing, cloud sync, web dashboard
+- 🦎 **[gecko](https://github.com/nocoo/gecko)** - macOS menu bar screen time tracker with cloud-synced dashboard
+- 🦋 **[xray](https://github.com/nocoo/xray)** - Personal Twitter/X analytics dashboard with AI-powered reporting
+- 🐢 **[backy](https://github.com/nocoo/backy)** - AI backup service for receiving, storing, previewing, and restoring backups
+- 🤠 **[pew-game](https://github.com/nocoo/pew-game)** - Pixel art twin-stick prairie shooter with leaderboard ([Play](https://pew.hexly.ai))
+- 🎶 **[lyre](https://github.com/nocoo/lyre)** - Audio recording management and transcription with word-level karaoke playback
 - 🐬 **[r2shot](https://github.com/nocoo/r2shot)** - One-click screenshot capture, upload to Cloudflare R2, CDN URL to clipboard
-- 🪶 **[shrike](https://github.com/nocoo/shrike)** - A lightweight macOS menu bar utility that syncs files and folders to Google Drive using rsync
-- 🐙 **[hooky](https://github.com/nocoo/hooky)** - Chrome extension to configure and trigger webhooks from the toolbar, context menu, or Quick Send
-- 🔲 **[dotty](https://github.com/nocoo/dotty)** - Pixel-brutalist dashboard template with cool-toned monochrome, sharp geometry, and stacked-block charts
-- 🐑 **[wooly](https://github.com/nocoo/wooly)** - Dashboard for family perks — track credit card rewards, insurance benefits, and memberships before expiry
-- 🧩 **[matrix](https://github.com/nocoo/matrix)** - The fine-grained substrate for your digital reality. A sci-fi dashboard UI kit with React and Tailwind
-- 🎨 **[basalt](https://github.com/nocoo/basalt)** - Dense. Dark. Durable. A matte-dark design system engineered for high-density SaaS interfaces
-- 🛡️ **[surety](https://github.com/nocoo/surety)** - A privacy-first, local-first family insurance policy management tool built with Next.js and SQLite
-- 🧬 **[life.ai](https://github.com/nocoo/life.ai)** - A unified personal data hub for health metrics, location footprints, and expense tracking
+- 🪶 **[shrike](https://github.com/nocoo/shrike)** - macOS menu bar utility that syncs files and folders to Google Drive via rsync
+- 🐙 **[hooky](https://github.com/nocoo/hooky)** - Chrome extension to trigger webhooks from toolbar, context menu, or Quick Send
+- 🔲 **[dotty](https://github.com/nocoo/dotty)** - Pixel-brutalist dashboard template with monochrome geometry and stacked charts
+- 🐑 **[wooly](https://github.com/nocoo/wooly)** - Family perks dashboard — credit card rewards, insurance benefits, expiry alerts
+- 🧩 **[matrix](https://github.com/nocoo/matrix)** - Sci-fi dashboard UI kit with React and Tailwind for digital reality interfaces
+- 🎨 **[basalt](https://github.com/nocoo/basalt)** - Matte-dark design system engineered for high-density SaaS interfaces
+- 🛡️ **[surety](https://github.com/nocoo/surety)** - Privacy-first, local-first family insurance policy management with Next.js
+- 🧬 **[life.ai](https://github.com/nocoo/life.ai)** - Unified personal data hub for health metrics, location, and expense tracking
 - 🚀 **[echo](https://github.com/nocoo/echo)** - API-only IP lookup service built with Bun and TypeScript
-- 🧭 **[deca](https://github.com/nocoo/deca)** - Local-first macOS AI agent gateway with multi-channel support (Discord, Terminal, HTTP)
-- ⏰ **[runner](https://github.com/nocoo/runner)** - Declarative task scheduler for macOS that runs AI jobs via launchd and opencode
+- 🧭 **[deca](https://github.com/nocoo/deca)** - Local-first macOS AI agent gateway with multi-channel support
+- ⏰ **[runner](https://github.com/nocoo/runner)** - Declarative task scheduler for macOS that runs AI jobs via launchd
 - 🔗 **[zhe](https://github.com/nocoo/zhe)** - TypeScript URL shortener with clean links and analytics-ready storage
-- 🎨 **[wp-theme-cele-rev](https://github.com/nocoo/wp-theme-cele-rev)** - A customized WordPress theme based on CeleRev for personal blog
-- 📰 **[geekhub](https://github.com/nocoo/geekhub)** - Self-hosted RSS reader with AI summarization and translation, built with Next.js
-- 💾 **[ccbackup](https://github.com/nocoo/ccbackup)** - A Python utility to backup and restore Claude Code configuration files
-- 💰 **[noheir](https://github.com/nocoo/noheir)** - Personal finance tracker for income, expenses, and assets with analytics dashboards
+- 📰 **[geekhub](https://github.com/nocoo/geekhub)** - Self-hosted RSS reader with AI summarization and translation
+- 💾 **[ccbackup](https://github.com/nocoo/ccbackup)** - Backup and restore Claude Code configuration files
+- 💰 **[noheir](https://github.com/nocoo/noheir)** - Personal finance tracker for income, expenses, and assets with dashboards
 
 ## CLI Tools
 
 > Published on [npm](https://www.npmjs.com/) — install globally and use from your terminal.
 
 - 🔓 **[unseal](https://github.com/nocoo/unseal)** - Scan macOS quarantined apps and batch-unseal them interactively `npm i -g unseal`
-- 🛡️ **[ipsafe](https://github.com/nocoo/ipsafe)** - Validate network connectivity before executing commands `npm i -g ipsafe`
 
 ## Skills & MCP Servers
 
@@ -75,9 +73,8 @@
 - 📨 **[microsoft-teams-send-as-workflow](https://github.com/nocoo/microsoft-teams-send-as-workflow)** - Send messages and Adaptive Cards to Teams via Webhook
 - 🖼️ **[image-stitch](https://github.com/nocoo/image-stitch)** - Seamlessly stitch multiple scrolling screenshots into a single image
 - 🎙️ **[skill-faster-whisper](https://github.com/nocoo/skill-faster-whisper)** - Fast speech-to-text transcription powered by faster-whisper
-- 📨 **[skill-task-notifier](https://github.com/nocoo/skill-task-notifier)** - Notification service that monitors and alerts on task execution status
+- 📨 **[skill-task-notifier](https://github.com/nocoo/skill-task-notifier)** - Notification service for monitoring and alerting on task execution status
 - 🤖 **[mcp-work-history](https://github.com/nocoo/mcp-work-history)** - MCP server for logging AI tool activities with metrics tracking
-- 🔊 **[mcp-make-sound](https://github.com/nocoo/mcp-make-sound)** - MCP server that provides system sound playback for macOS
 
 ## Legacy Projects
 
