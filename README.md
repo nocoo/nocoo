@@ -66,6 +66,7 @@
 > Published on [npm](https://www.npmjs.com/) — install globally and use from your terminal.
 
 - 🔓 **[unseal](https://github.com/nocoo/unseal)** - Scan macOS quarantined apps and batch-unseal them interactively `npm i -g unseal`
+- 🛡️ **[ipsafe](https://github.com/nocoo/ipsafe)** - Validate network connectivity before executing commands `npm i -g ipsafe`
 
 ## Skills & MCP Servers
 
@@ -75,6 +76,7 @@
 - 🎙️ **[skill-faster-whisper](https://github.com/nocoo/skill-faster-whisper)** - Fast speech-to-text transcription powered by faster-whisper
 - 📨 **[skill-task-notifier](https://github.com/nocoo/skill-task-notifier)** - Notification service for monitoring and alerting on task execution status
 - 🤖 **[mcp-work-history](https://github.com/nocoo/mcp-work-history)** - MCP server for logging AI tool activities with metrics tracking
+- 🔊 **[mcp-make-sound](https://github.com/nocoo/mcp-make-sound)** - MCP server that provides system sound playback for macOS
 
 ## Legacy Projects
 
