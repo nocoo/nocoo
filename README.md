@@ -20,8 +20,8 @@
 ## What I'm Doing
 
 - **Building Copilot & Bing** - Mobile app development at Microsoft, shipping AI-powered experiences to millions
-- **Exploring AI Coding** - Experimenting with agentic engineering and open source tools in my spare time
-- **Writing on [lizheng.me](https://lizheng.me)** - Sharing thoughts on AI, coding, and the future of software development
+- **Exploring AI Coding** - Experimenting with agentic engineering and open source tools in my spare time ([My VibeUsage](https://www.vibeusage.cc/share/edf2bea39cfa4f49a97e2a1390a3f8939fd059a336c547a991475a803ee5e232))
+- **Writing on [lizheng.blog](https://lizheng.blog)** - Sharing thoughts on AI, coding, and the future of software development
 
 ## Recent Projects
 
@@ -96,17 +96,17 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Who Are Friends, Who Are Enemies?](https://lizheng.me/index.php/2026/02/digital-yeoman-farmer-and-ai-resistance/)
-- [Seven Types of Fragmentation in the AI Era](https://lizheng.me/index.php/2026/02/seven-types-of-fragmentation-in-ai-era/)
-- [Return of Apprenticeship in the AI Era](https://lizheng.me/index.php/2026/02/return-of-apprenticeship-in-ai-era/)
-- [Read more →](https://lizheng.me)
+- [Who Are Friends, Who Are Enemies?](https://lizheng.blog/index.php/2026/02/digital-yeoman-farmer-and-ai-resistance/)
+- [Seven Types of Fragmentation in the AI Era](https://lizheng.blog/index.php/2026/02/seven-types-of-fragmentation-in-ai-era/)
+- [Return of Apprenticeship in the AI Era](https://lizheng.blog/index.php/2026/02/return-of-apprenticeship-in-ai-era/)
+- [Read more →](https://lizheng.blog)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
 
 [![X](https://img.shields.io/badge/-@zhengli-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/zhengli)
 [![LinkedIn](https://img.shields.io/badge/-Zheng_Li-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nocoo/)
-[![Blog](https://img.shields.io/badge/-lizheng.me-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://lizheng.me)
+[![Blog](https://img.shields.io/badge/-lizheng.blog-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://lizheng.blog)
 [![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://lizheng.dev/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nocoo)
 
