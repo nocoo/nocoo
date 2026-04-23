@@ -20,7 +20,7 @@
 ## What I'm Doing
 
 - **Building Copilot & Bing** - Mobile app development at Microsoft, shipping AI-powered experiences to millions
-- **Exploring AI Coding** - Experimenting with agentic engineering and open source tools in my spare time ([My token maxing profile](https://pew.md/u/nocoo))
+- **Exploring AI Coding** - Agentic engineering and open source in my spare time ([token maxing profile](https://pew.md/u/nocoo))
 - **Writing on [lizheng.blog](https://lizheng.blog)** - Sharing thoughts on AI, coding, and the future of software development
 
 ## Recent Projects
