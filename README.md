@@ -25,6 +25,12 @@
 
 ## Recent Projects
 
+- 📚 **[bogo](https://github.com/nocoo/bogo)** - Personal knowledge base for documents, people, and workspaces — React + Hono + Cloudflare D1
+- 🐎 **[steed](https://github.com/nocoo/steed)** - AI Hub for the multi-agent era — asset visibility and relationship management across agents
+- 🐘 **[ellie](https://github.com/nocoo/ellie)** - Modern forum platform on Next.js + Cloudflare Workers + D1, with a Rust TUI client
+- 🐸 **[frogie](https://github.com/nocoo/frogie)** - Local-first web shell for an agent engine — chat, MCP, sessions on Bun + React
+- 🐔 **[rooster](https://github.com/nocoo/rooster)** - Web management panel for Hermes Agent — chat, sessions, profile/model controls
+- 🐍 **[snaky](https://github.com/nocoo/snaky)** - CLI to probe VPN/proxy routing — exit IPs, latency, and split-tunnel rule validation
 - ✍️ **[signoff.now](https://github.com/nocoo/signoff.now)** - Desktop-first developer workspace for digital signoff and approval workflows
 - 🔓 **[unseal](https://github.com/nocoo/unseal)** - Scan macOS quarantined apps and batch-unseal them interactively
 - 🔥 **[firefly](https://github.com/nocoo/firefly)** - Modern blog platform — Next.js 16 + Cloudflare D1 + R2, migrated from WordPress
