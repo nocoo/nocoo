@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🦒 **[giraffe](https://github.com/nocoo/giraffe)** - Personal GitHub monitoring console with encrypted PAT snapshots
 - 📚 **[bogo](https://github.com/nocoo/bogo)** - Personal knowledge base for documents, people, and workspaces — React + Hono + Cloudflare D1
 - 🐎 **[steed](https://github.com/nocoo/steed)** - AI Hub for the multi-agent era — asset visibility and relationship management across agents
 - 🐘 **[ellie](https://github.com/nocoo/ellie)** - Modern forum platform on Next.js + Cloudflare Workers + D1, with a Rust TUI client
