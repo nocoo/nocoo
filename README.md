@@ -23,6 +23,12 @@
 - **Exploring AI Coding** - Agentic engineering and open source in my spare time ([token maxing profile](https://pew.md/u/nocoo))
 - **Writing on [lizheng.blog](https://lizheng.blog)** - Sharing thoughts on AI, coding, and the future of software development
 
+## Games
+
+- ✈️ **[dogfight](https://github.com/nocoo/dogfight)** - Arcade 3D F-22 vs Su-35s dogfight in the browser ([Play](https://dogfight.hexly.ai))
+- 🧸 **[gaga](https://github.com/nocoo/gaga)** - Tiny 3D playroom where Taotao freely explores toys ([Play](https://gaga.hexly.ai))
+- 🤠 **[pew-game](https://github.com/nocoo/pew-game)** - Pixel art twin-stick prairie shooter with leaderboard ([Play](https://pew.hexly.ai))
+
 ## Recent Projects
 
 - 🦒 **[giraffe](https://github.com/nocoo/giraffe)** - Personal GitHub monitoring console with encrypted PAT snapshots
@@ -49,7 +55,6 @@
 - 🦎 **[gecko](https://github.com/nocoo/gecko)** - macOS menu bar screen time tracker with cloud-synced dashboard
 - 🦋 **[xray](https://github.com/nocoo/xray)** - Personal Twitter/X analytics dashboard with AI-powered reporting
 - 🐢 **[backy](https://github.com/nocoo/backy)** - AI backup service for receiving, storing, previewing, and restoring backups
-- 🤠 **[pew-game](https://github.com/nocoo/pew-game)** - Pixel art twin-stick prairie shooter with leaderboard ([Play](https://pew.hexly.ai))
 - 🎶 **[lyre](https://github.com/nocoo/lyre)** - Audio recording management and transcription with word-level karaoke playback
 - 🐬 **[r2shot](https://github.com/nocoo/r2shot)** - One-click screenshot capture, upload to Cloudflare R2, CDN URL to clipboard
 - 🪶 **[shrike](https://github.com/nocoo/shrike)** - macOS menu bar utility that syncs files and folders to Google Drive via rsync
