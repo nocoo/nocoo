@@ -25,6 +25,7 @@
 
 ## Games
 
+- 🎮 **[pokemon](https://github.com/nocoo/pokemon)** - A nostalgic GB / GBC / GBA cartridge collection with browser emulation and local saves ([Play · Access sign-in](https://pokemon.hexly.ai))
 - ✈️ **[dogfight](https://github.com/nocoo/dogfight)** - Arcade 3D F-22 vs Su-35s dogfight in the browser ([Play](https://dogfight.hexly.ai))
 - 🧸 **[gaga](https://github.com/nocoo/gaga)** - Tiny 3D playroom where Taotao freely explores toys ([Play](https://gaga.hexly.ai))
 - 🤠 **[pew-game](https://github.com/nocoo/pew-game)** - Pixel art twin-stick prairie shooter with leaderboard ([Play](https://pew.hexly.ai))
