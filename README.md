@@ -32,6 +32,7 @@
 
 ## Recent Projects
 
+- 🧭 **[hexly.ai](https://github.com/nocoo/hexly.ai)** - Bilingual project directory and logo gallery with original artwork and color palettes
 - 🦒 **[giraffe](https://github.com/nocoo/giraffe)** - Personal GitHub monitoring console with encrypted PAT snapshots
 - 📚 **[bogo](https://github.com/nocoo/bogo)** - Personal knowledge base for documents, people, and workspaces — React + Hono + Cloudflare D1
 - 🐎 **[steed](https://github.com/nocoo/steed)** - AI Hub for the multi-agent era — asset visibility and relationship management across agents
