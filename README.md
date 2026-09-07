@@ -33,6 +33,9 @@
 
 ## Recent Projects
 
+- ✂️ **[clip](https://github.com/nocoo/clip)** - Generate fully working CLIs from a clip.yaml schema, with built-in credential management
+- 🪴 **[fundly](https://github.com/nocoo/fundly)** - China mutual-fund browser and ranking tool with local SQLite and Railway
+- 🐱 **[meowth](https://github.com/nocoo/meowth)** - Local bridge for five coding-agent CLIs with HTTP control and a web dashboard
 - 🧭 **[hexly.ai](https://github.com/nocoo/hexly.ai)** - Bilingual project directory and logo gallery with original artwork and color palettes
 - 🦒 **[giraffe](https://github.com/nocoo/giraffe)** - Personal GitHub monitoring console with encrypted PAT snapshots
 - 📚 **[bogo](https://github.com/nocoo/bogo)** - Personal knowledge base for documents, people, and workspaces — React + Hono + Cloudflare D1
