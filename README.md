@@ -41,7 +41,7 @@
 - 🐸 **[frogie](https://github.com/nocoo/frogie)** - Local-first web shell for an agent engine — chat, MCP, sessions on Bun + React
 - 🐔 **[rooster](https://github.com/nocoo/rooster)** - Web management panel for Hermes Agent — chat, sessions, profile/model controls
 - 🐍 **[snaky](https://github.com/nocoo/snaky)** - CLI to probe VPN/proxy routing — exit IPs, latency, and split-tunnel rule validation
-- ✍️ **[signoff.now](https://github.com/nocoo/signoff.now)** - Desktop-first developer workspace for digital signoff and approval workflows
+- ✍️ **[signoff.now](https://github.com/nocoo/signoff.now)** - Developer and Git activity analytics
 - 🔓 **[unseal](https://github.com/nocoo/unseal)** - Scan macOS quarantined apps and batch-unseal them interactively
 - 🔥 **[firefly](https://github.com/nocoo/firefly)** - Modern blog platform — Next.js 16 + Cloudflare D1 + R2, migrated from WordPress
 - 🕊️ **[dove](https://github.com/nocoo/dove)** - Self-hosted email relay with webhook triggers, templates, and usage dashboard
