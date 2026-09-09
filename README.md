@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🎬 **[showtime](https://github.com/nocoo/showtime)** - Native macOS browser for agent-directed product demo recordings
 - 🧭 **[hexly.ai](https://github.com/nocoo/hexly.ai)** - Bilingual project directory and logo gallery with original artwork and color palettes
 - 🐦‍⬛ **[raven](https://github.com/nocoo/raven)** - Copilot proxy for Anthropic/OpenAI APIs with usage dashboard
 - 🦓 **[pew](https://github.com/nocoo/pew)** - Contribution graph for AI-native developers — track token usage across tools
