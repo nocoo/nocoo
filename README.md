@@ -81,7 +81,7 @@
 - 🧸 **[gaga](https://github.com/nocoo/gaga)** - Tiny 3D playroom where Taotao freely explores toys ([Play](https://gaga.hexly.ai))
 - 🎮 **[pokepocket](https://github.com/nocoo/pokepocket)** - GB / GBC / GBA collection with browser play and local saves ([Play](https://pokepocket.hexly.ai))
 - ✈️ **[dogfight](https://github.com/nocoo/dogfight)** - Arcade 3D F-22 vs Su-35s dogfight in the browser ([Play](https://dogfight.hexly.ai))
-- 🤠 **[pew-game](https://github.com/nocoo/pew-game)** - Pixel art twin-stick prairie shooter with leaderboard ([Play](https://pew.hexly.ai))
+- 🤠 **[pew-game](https://github.com/nocoo/pew-game)** - Pixel art prairie shooter with an all-time leaderboard ([Play](https://pew.hexly.ai))
 - 🌸 **[dreamro](https://github.com/nocoo/dreamro)** - Nostalgic 3D browser RPG with 20 classes, three realms, and local saves ([Play](https://dreamro.hexly.ai))
 
 ## CLI Tools
