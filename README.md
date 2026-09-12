@@ -27,7 +27,7 @@
 
 - 🐆 **[ocelot](https://github.com/nocoo/ocelot)** - Read-only Obsidian reader for public and private GitHub vaults
 - ☕ **[coffee](https://github.com/nocoo/coffee)** - Bilingual coffee flavor wheel, origin atlas, brewing lab and tasting journal
-- 🚪 **[hermes-gateway-herdr](https://github.com/nocoo/hermes-gateway-herdr)** - Dedicated Hermes Gateway supervision inside a real Herdr pane
+- 🚪 **[hermes-on-herdr](https://github.com/nocoo/hermes-on-herdr)** - Run Hermes in Herdr with optional monitoring
 - 🎬 **[showtime](https://github.com/nocoo/showtime)** - Native macOS browser for agent-directed product demo recordings
 - 🧭 **[hexly.ai](https://github.com/nocoo/hexly.ai)** - Bilingual project directory and logo gallery with original artwork and color palettes
 - 🐦‍⬛ **[raven](https://github.com/nocoo/raven)** - Copilot proxy for Anthropic/OpenAI APIs with usage dashboard
