@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🔧 **[pi-agent-policy](https://github.com/nocoo/pi-agent-policy)** - User-level Pi tool policies and bounded recovery
 - 🐆 **[ocelot](https://github.com/nocoo/ocelot)** - Read-only Obsidian reader for public and private GitHub vaults
 - ☕ **[coffee](https://github.com/nocoo/coffee)** - Bilingual coffee flavor wheel, origin atlas, brewing lab and tasting journal
 - 🚪 **[hermes-on-herdr](https://github.com/nocoo/hermes-on-herdr)** - Run Hermes in Herdr with optional monitoring
