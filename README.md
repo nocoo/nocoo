@@ -94,6 +94,7 @@
 
 ## Skills & MCP Servers
 
+- 🏞️ **[diorama-journey](https://github.com/nocoo/diorama-journey)** - Miniature 3D storytelling with narration, chapter clips and slides
 - 🩺 **[uptime-kuma-skill](https://github.com/nocoo/uptime-kuma-skill)** - Manage Uptime Kuma monitors — status, SSL certs, response times, and CRUD
 - 📨 **[microsoft-teams-send-as-workflow](https://github.com/nocoo/microsoft-teams-send-as-workflow)** - Send messages and Adaptive Cards to Teams via Webhook
 - 🖼️ **[image-stitch](https://github.com/nocoo/image-stitch)** - Seamlessly stitch multiple scrolling screenshots into a single image
