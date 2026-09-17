@@ -62,7 +62,7 @@ Status: `enforced` | `planned` | `manual` | `N/A`.
 | Docs | README is the product | manual | human review |
 | Release | — | N/A | profile pages are not versioned releases |
 
-No hooks. `--no-verify` is still forbidden if hooks are added later.
+No husky. If hooks are added: index-snapshot G1+L1 <30s; stdin-ref G2 <3min (targets). `--no-verify` forbidden.
 
 ## Retrospective
 
