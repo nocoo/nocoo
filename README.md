@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🦅 **[eagle](https://github.com/nocoo/eagle)** - Evidence-led Herdr Space overview across machines
 - 🚀 **[zeppelin](https://github.com/nocoo/zeppelin)** - Next-generation spacecraft fleet and design archive
 - 🔧 **[pi-agent-policy](https://github.com/nocoo/pi-agent-policy)** - User-level Pi tool policies and bounded recovery
 - 🐆 **[ocelot](https://github.com/nocoo/ocelot)** - Read-only Obsidian reader for public and private GitHub vaults
