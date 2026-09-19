@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🚀 **[zeppelin](https://github.com/nocoo/zeppelin)** - Next-generation spacecraft fleet and design archive
 - 🔧 **[pi-agent-policy](https://github.com/nocoo/pi-agent-policy)** - User-level Pi tool policies and bounded recovery
 - 🐆 **[ocelot](https://github.com/nocoo/ocelot)** - Read-only Obsidian reader for public and private GitHub vaults
 - ☕ **[coffee](https://github.com/nocoo/coffee)** - Bilingual coffee flavor wheel, origin atlas, brewing lab and tasting journal
