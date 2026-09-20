@@ -22,7 +22,7 @@ This file is the **contract**. Hooks, CI, and config are **enforcement**. If the
 
 - This repository is the public GitHub profile for `nocoo`, not an application.
 - Keep README badges/projects factual; do not invent stats or unpublished repos.
-- The only extra tree is `skills/zhengli-update-github-readme/` (markdown skill). It is not executable code in this repo.
+- The only extra tree is `skills/system0-github-profile/` (markdown skill). It is not executable code in this repo.
 - Do not add Cloudflare, databases, or test infrastructure here.
 
 ## Stack / Layout
@@ -38,7 +38,7 @@ This file is the **contract**. Hooks, CI, and config are **enforcement**. If the
 
 ```
 README.md
-skills/zhengli-update-github-readme/SKILL.md
+skills/system0-github-profile/SKILL.md
 ```
 
 ## Commands
