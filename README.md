@@ -25,6 +25,8 @@
 
 ## Recent Projects
 
+- 🦅 **[falcon](https://github.com/nocoo/falcon)** - Native macOS Jev proxy and decision observability, in development
+- 🪶 **[kite](https://github.com/nocoo/kite)** - Local Pi execution-trace collection for inspection and visualization
 - 🦜 **[rio](https://github.com/nocoo/rio)** - A web voice interface for local Hermes agents, powered by GPT-Live and Cloudflare
 - 🦅 **[eagle](https://github.com/nocoo/eagle)** - Evidence-led Herdr Space overview across machines
 - 🚀 **[zeppelin](https://github.com/nocoo/zeppelin)** - Next-generation spacecraft fleet and design archive
