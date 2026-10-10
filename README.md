@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🧸 **[zoo](https://github.com/nocoo/zoo)** - Chinese picture learning for young children and parents
 - 📖 **[sleepy](https://github.com/nocoo/sleepy)** - Quiet Chinese poetry reading for parents and children
 - 🦏 **[rhino](https://github.com/nocoo/rhino)** - Personal fitness planning and training journal
 
