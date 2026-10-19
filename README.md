@@ -26,14 +26,9 @@
 ## Recent Projects
 
 - 🧠 **[octo](https://github.com/nocoo/octo)** - Private API-first memory and knowledge base
-- 🤖 **[next-ai](https://github.com/nocoo/next-ai)** - Multi-provider AI integration for Next.js and Vite
-- 🔌 **[base-mcp](https://github.com/nocoo/base-mcp)** - MCP Server development framework with OAuth 2.1 and Streamable HTTP
-- 🔧 **[base-cli](https://github.com/nocoo/base-cli)** - Shared CLI infrastructure for hexly.ai projects — config, OAuth login, auto-update, logging
-- 🔒 **[base-ci](https://github.com/nocoo/base-ci)** - Reusable GitHub Actions workflows for 6-dimension quality system
 - 🧸 **[zoo](https://github.com/nocoo/zoo)** - Chinese picture learning for young children and parents
 - 📖 **[sleepy](https://github.com/nocoo/sleepy)** - Quiet Chinese poetry reading for parents and children
 - 🦏 **[rhino](https://github.com/nocoo/rhino)** - Personal fitness planning and training journal
-
 - 🦅 **[falcon](https://github.com/nocoo/falcon)** - Native macOS Jev proxy and decision observability, in development
 - 🪶 **[kite](https://github.com/nocoo/kite)** - Local Pi execution-trace collection for inspection and visualization
 - 🦜 **[rio](https://github.com/nocoo/rio)** - A web voice interface for local Hermes agents, powered by GPT-Live and Cloudflare
@@ -105,6 +100,13 @@
 
 - 🔓 **[unseal](https://github.com/nocoo/unseal)** - Scan macOS quarantined apps and batch-unseal them interactively `npm i -g unseal`
 - 🛡️ **[ipsafe](https://github.com/nocoo/ipsafe)** - Validate network connectivity before executing commands `npm i -g ipsafe`
+
+## Libraries & Infrastructure
+
+- 🔒 **[base-ci](https://github.com/nocoo/base-ci)** - Reusable GitHub Actions workflows for 6-dimension quality system
+- 🔧 **[base-cli](https://github.com/nocoo/base-cli)** - Shared CLI infrastructure for hexly.ai projects — config, OAuth login, auto-update, logging
+- 🔌 **[base-mcp](https://github.com/nocoo/base-mcp)** - MCP Server development framework with OAuth 2.1 and Streamable HTTP
+- 🤖 **[next-ai](https://github.com/nocoo/next-ai)** - Multi-provider AI integration for Next.js and Vite
 
 ## Skills & MCP Servers
 
