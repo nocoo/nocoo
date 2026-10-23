@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🎧 **[his.fm](https://github.com/nocoo/his.fm)** - An AI-collaboration Chinese podcast with a versioned prompt-slot studio
 - 🧠 **[octo](https://github.com/nocoo/octo)** - Private API-first memory and knowledge base
 - 🧸 **[zoo](https://github.com/nocoo/zoo)** - Chinese picture learning for young children and parents
 - 📖 **[sleepy](https://github.com/nocoo/sleepy)** - Quiet Chinese poetry reading for parents and children
@@ -75,7 +76,6 @@
 - 🔲 **[dotty](https://github.com/nocoo/dotty)** - Pixel-brutalist dashboard template with monochrome geometry and stacked charts
 - 🧩 **[matrix](https://github.com/nocoo/matrix)** - Sci-fi dashboard UI kit with React and Tailwind for digital reality interfaces
 - 🎨 **[basalt](https://github.com/nocoo/basalt)** - Matte-dark design system engineered for high-density SaaS interfaces
-- 🗂️ **[infospace](https://github.com/nocoo/infospace)** - Native SwiftUI workspace SDK with resizable grids and customizable information panels
 - ✍️ **[signoff.now](https://github.com/nocoo/signoff.now)** - Developer and Git activity analytics
 - 🔓 **[unseal](https://github.com/nocoo/unseal)** - Scan macOS quarantined apps and batch-unseal them interactively
 - 🌊 **[flow](https://github.com/nocoo/flow)** - LLM-powered Chinese pinyin input method engine with DP segmentation
@@ -107,6 +107,7 @@
 - 🔧 **[base-cli](https://github.com/nocoo/base-cli)** - Shared CLI infrastructure for hexly.ai projects — config, OAuth login, auto-update, logging
 - 🔌 **[base-mcp](https://github.com/nocoo/base-mcp)** - MCP Server development framework with OAuth 2.1 and Streamable HTTP
 - 🤖 **[next-ai](https://github.com/nocoo/next-ai)** - Multi-provider AI integration for Next.js and Vite
+- 🗂️ **[infospace](https://github.com/nocoo/infospace)** - Native SwiftUI workspace SDK with resizable grids and customizable information panels
 
 ## Skills & MCP Servers
 
