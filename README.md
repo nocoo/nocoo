@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- 🖌️ **[chamelo](https://github.com/nocoo/chamelo)** - A Chinese-cultural colour atlas with curated palettes and agent briefs
 - 🎧 **[his.fm](https://github.com/nocoo/his.fm)** - An AI-collaboration Chinese podcast with a versioned prompt-slot studio
 - 🧠 **[octo](https://github.com/nocoo/octo)** - Private API-first memory and knowledge base
 - 🧸 **[zoo](https://github.com/nocoo/zoo)** - Chinese picture learning for young children and parents
