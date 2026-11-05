@@ -22,9 +22,11 @@
 - **Building Copilot & Bing** - Mobile app development at Microsoft, shipping AI-powered experiences to millions
 - **Exploring AI Coding** - Agentic engineering and open source in my spare time ([token maxing profile](https://pew.md/u/nocoo))
 - **Writing on [lizheng.blog](https://lizheng.blog)** - Sharing thoughts on AI, coding, and the future of software development
+- **Producing [his.fm](https://his.fm)** - A Mandarin podcast I make with AI collaborators, sharing AI news and reflections on work and life.
 
 ## Recent Projects
 
+- 🖼️ **[mico](https://github.com/nocoo/mico)** - A local-first canvas where people and AI agents create together
 - 🖌️ **[chamelo](https://github.com/nocoo/chamelo)** - A Chinese-cultural colour atlas with curated palettes and agent briefs
 - 🎧 **[his.fm](https://github.com/nocoo/his.fm)** - An AI-collaboration Chinese podcast with a versioned prompt-slot studio
 - 🧠 **[octo](https://github.com/nocoo/octo)** - Private API-first memory and knowledge base
