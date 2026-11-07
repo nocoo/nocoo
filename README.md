@@ -79,6 +79,7 @@
 - 🔲 **[dotty](https://github.com/nocoo/dotty)** - Pixel-brutalist dashboard template with monochrome geometry and stacked charts
 - 🧩 **[matrix](https://github.com/nocoo/matrix)** - Sci-fi dashboard UI kit with React and Tailwind for digital reality interfaces
 - 🎨 **[basalt](https://github.com/nocoo/basalt)** - Matte-dark design system engineered for high-density SaaS interfaces
+- 📐 **[linie](https://github.com/nocoo/linie)** - A network operations dashboard template drawn like an engineering verification sheet
 - ✍️ **[signoff.now](https://github.com/nocoo/signoff.now)** - Developer and Git activity analytics
 - 🔓 **[unseal](https://github.com/nocoo/unseal)** - Scan macOS quarantined apps and batch-unseal them interactively
 - 🌊 **[flow](https://github.com/nocoo/flow)** - LLM-powered Chinese pinyin input method engine with DP segmentation
