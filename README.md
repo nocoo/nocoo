@@ -26,6 +26,9 @@
 
 ## Recent Projects
 
+- 📅 **[hackernews-on-this-day](https://github.com/nocoo/hackernews-on-this-day)** - Explore Hacker News stories from the same day in past years
+- ⭐ **[mao](https://github.com/nocoo/mao)** - A digital reading room for Mao Zedong's poetry
+- 🤖 **[pi-superagent](https://github.com/nocoo/pi-superagent)** - A local policy-governed agent coordinating persistent Pi sessions
 - 🖼️ **[mico](https://github.com/nocoo/mico)** - A local-first canvas where people and AI agents create together
 - 🖌️ **[chamelo](https://github.com/nocoo/chamelo)** - A Chinese-cultural colour atlas with curated palettes and agent briefs
 - 🎧 **[his.fm](https://github.com/nocoo/his.fm)** - An AI-collaboration Chinese podcast with a versioned prompt-slot studio
