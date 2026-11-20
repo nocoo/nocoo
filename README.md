@@ -42,7 +42,6 @@
 - 🦜 **[rio](https://github.com/nocoo/rio)** - A web voice interface for local Hermes agents, powered by GPT-Live and Cloudflare
 - 🦅 **[eagle](https://github.com/nocoo/eagle)** - Evidence-led Herdr Space overview across machines
 - 🚀 **[zeppelin](https://github.com/nocoo/zeppelin)** - Next-generation spacecraft fleet and design archive
-- 🔧 **[pi-agent-policy](https://github.com/nocoo/pi-agent-policy)** - User-level Pi tool policies and bounded recovery
 - 🐆 **[ocelot](https://github.com/nocoo/ocelot)** - Read-only Obsidian reader for public and private GitHub vaults
 - ☕ **[coffee](https://github.com/nocoo/coffee)** - Bilingual coffee flavor wheel, origin atlas, brewing lab and tasting journal
 - 🚪 **[hermes-on-herdr](https://github.com/nocoo/hermes-on-herdr)** - Run Hermes in Herdr with optional monitoring
@@ -85,7 +84,6 @@
 - 🎨 **[basalt](https://github.com/nocoo/basalt)** - Matte-dark design system engineered for high-density SaaS interfaces
 - 📐 **[linie](https://github.com/nocoo/linie)** - A network operations dashboard template drawn like an engineering verification sheet
 - ✍️ **[signoff.now](https://github.com/nocoo/signoff.now)** - Developer and Git activity analytics
-- 🔓 **[unseal](https://github.com/nocoo/unseal)** - Scan macOS quarantined apps and batch-unseal them interactively
 - 🌊 **[flow](https://github.com/nocoo/flow)** - LLM-powered Chinese pinyin input method engine with DP segmentation
 - 🏟️ **[arena](https://github.com/nocoo/arena)** - Local AI coding agent debate platform — agents push solutions, humans review
 - 🚀 **[echo](https://github.com/nocoo/echo)** - API-only IP lookup service built with Bun and TypeScript
@@ -111,6 +109,7 @@
 
 ## Libraries & Infrastructure
 
+- 🔀 **[workflow-sdk](https://github.com/nocoo/workflow-sdk)** - TypeScript Workflow & Agent SDK with dual kernels: Antigravity (primary) and pure-TS Vercel AI SDK
 - 🔒 **[base-ci](https://github.com/nocoo/base-ci)** - Reusable GitHub Actions workflows for 6-dimension quality system
 - 🔧 **[base-cli](https://github.com/nocoo/base-cli)** - Shared CLI infrastructure for hexly.ai projects — config, OAuth login, auto-update, logging
 - 🔌 **[base-mcp](https://github.com/nocoo/base-mcp)** - MCP Server development framework with OAuth 2.1 and Streamable HTTP
