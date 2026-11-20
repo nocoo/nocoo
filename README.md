@@ -116,6 +116,7 @@
 - 🔌 **[base-mcp](https://github.com/nocoo/base-mcp)** - MCP Server development framework with OAuth 2.1 and Streamable HTTP
 - 🤖 **[next-ai](https://github.com/nocoo/next-ai)** - Multi-provider AI integration for Next.js and Vite
 - 🗂️ **[infospace](https://github.com/nocoo/infospace)** - Native SwiftUI workspace SDK with resizable grids and customizable information panels
+- 🔀 **[workflow-sdk](https://github.com/nocoo/workflow-sdk)** - TypeScript Workflow & Agent SDK with dual kernels: Antigravity (primary) and pure-TS Vercel AI SDK
 
 ## Skills & MCP Servers
 
