@@ -26,6 +26,7 @@
 
 ## Recent Projects
 
+- 🐿️ **[squirrel](https://github.com/nocoo/squirrel)** - Personal API key and token vault MCP server on Cloudflare Workers with OAuth 2.1 and Bot Bearer Tokens
 - 📮 **[ag-cli](https://github.com/nocoo/ag-cli)** - Dispatch tasks to local Antigravity sessions from any CLI bot
 - 📅 **[hackernews-on-this-day](https://github.com/nocoo/hackernews-on-this-day)** - Explore Hacker News stories from the same day in past years
 - ⭐ **[mao](https://github.com/nocoo/mao)** - A digital reading room for Mao Zedong's poetry
